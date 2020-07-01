@@ -1,0 +1,1015 @@
+<http://webisa.webdatacommons.org/concept/_1970_> <http://www.w3.org/2004/02/skos/core#broader> <http://webisa.webdatacommons.org/concept/_quality_>  <http://webisa.webdatacommons.org/prov/1740420>.
+<http://webisa.webdatacommons.org/concept/_1970_> <http://www.w3.org/2000/01/rdf-schema#label> "1970".
+<http://webisa.webdatacommons.org/concept/_1970_> <http://webisa.webdatacommons.org/ontology#hasHead> "1970".
+<http://webisa.webdatacommons.org/concept/_quality_> <http://www.w3.org/2000/01/rdf-schema#label> "quality".
+<http://webisa.webdatacommons.org/concept/_quality_> <http://webisa.webdatacommons.org/ontology#hasHead> "quality".
+<http://webisa.webdatacommons.org/prov/1740420> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/prov/1740420> <http://webisa.webdatacommons.org/ontology#hasPidSpread> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/1740420> <http://webisa.webdatacommons.org/ontology#hasPldSpread> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/1740420> <http://webisa.webdatacommons.org/ontology#hasFrequency> "3"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/1740420> <http://webisa.webdatacommons.org/ontology#hasConfidence> "0.230231306062356"^^<http://www.w3.org/2001/XMLSchema#float>.
+<http://webisa.webdatacommons.org/prov/1740420> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p2_activity>.
+<http://webisa.webdatacommons.org/prov/1740420> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p10_activity>.
+<http://webisa.webdatacommons.org/prov/1740420> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/193738081>.
+<http://webisa.webdatacommons.org/193738081> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/193738081> <http://www.w3.org/ns/prov#value> "I would not say it is of such a quality as to give its 1970s influences a run for their money, but if you are in the market for some throwback rock it is not a terrible choice. 771 days ago".
+<http://webisa.webdatacommons.org/193738081> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://metalmusicarchives.com>.
+<http://webisa.webdatacommons.org/prov/1740420> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/230137411>.
+<http://webisa.webdatacommons.org/230137411> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/230137411> <http://www.w3.org/ns/prov#value> "The quartet???s performances were known for being extremely variable in quality, especially in the 1960???s, 1970???s and 1980???s, when the quartet???s membership was in a veritable constant state of flux.The performances on the Vanguard disc are very fine.".
+<http://webisa.webdatacommons.org/230137411> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://blogspot.com>.
+<http://webisa.webdatacommons.org/prov/1740420> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/193723740>.
+<http://webisa.webdatacommons.org/193723740> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/193723740> <http://www.w3.org/ns/prov#value> "I would not say it is of such a quality as to give its 1970s influences a run for their money, but if you are in the market for some throwback rock it is not a terrible choice. 769 days ago".
+<http://webisa.webdatacommons.org/193723740> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://metalmusicarchives.com>.
+<http://webisa.webdatacommons.org/concept/_1970_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/1970>.
+<http://webisa.webdatacommons.org/concept/_quality_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Quality>.
+
+<http://webisa.webdatacommons.org/concept/_1930_> <http://www.w3.org/2004/02/skos/core#broader> <http://webisa.webdatacommons.org/concept/_america_>  <http://webisa.webdatacommons.org/prov/1775291>.
+<http://webisa.webdatacommons.org/concept/_1930_> <http://www.w3.org/2000/01/rdf-schema#label> "1930".
+<http://webisa.webdatacommons.org/concept/_1930_> <http://webisa.webdatacommons.org/ontology#hasHead> "1930".
+<http://webisa.webdatacommons.org/concept/_america_> <http://www.w3.org/2000/01/rdf-schema#label> "america".
+<http://webisa.webdatacommons.org/concept/_america_> <http://webisa.webdatacommons.org/ontology#hasHead> "america".
+<http://webisa.webdatacommons.org/prov/1775291> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/prov/1775291> <http://webisa.webdatacommons.org/ontology#hasPidSpread> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/1775291> <http://webisa.webdatacommons.org/ontology#hasPldSpread> "3"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/1775291> <http://webisa.webdatacommons.org/ontology#hasFrequency> "3"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/1775291> <http://webisa.webdatacommons.org/ontology#hasConfidence> "0.06470341252719995"^^<http://www.w3.org/2001/XMLSchema#float>.
+<http://webisa.webdatacommons.org/prov/1775291> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p2_activity>.
+<http://webisa.webdatacommons.org/prov/1775291> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p23a_activity>.
+<http://webisa.webdatacommons.org/prov/1775291> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/336442328>.
+<http://webisa.webdatacommons.org/336442328> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/336442328> <http://www.w3.org/ns/prov#value> "I collected the wallpaper pieces from Etsy, they came from America and date mainly to the 1930s and '40s.".
+<http://webisa.webdatacommons.org/336442328> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://blogspot.co.uk>.
+<http://webisa.webdatacommons.org/prov/1775291> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/95822019>.
+<http://webisa.webdatacommons.org/95822019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/95822019> <http://www.w3.org/ns/prov#value> "As America began to ???plug in??? more and more especially during the 1930s due to decreased cost of electric power, the electric stove gained popularity.".
+<http://webisa.webdatacommons.org/95822019> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://nwhm.org>.
+<http://webisa.webdatacommons.org/prov/1775291> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/336432811>.
+<http://webisa.webdatacommons.org/336432811> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/336432811> <http://www.w3.org/ns/prov#value> "I collected the wallpaper pieces from Etsy, they came from America and date mainly to the 1930s and '40s.".
+<http://webisa.webdatacommons.org/336432811> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://blogspot.com>.
+<http://webisa.webdatacommons.org/concept/_1930_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/1930>.
+<http://webisa.webdatacommons.org/concept/_america_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/United_States>.
+
+<http://webisa.webdatacommons.org/concept/_%24%24%24%24_> <http://www.w3.org/2004/02/skos/core#broader> <http://webisa.webdatacommons.org/concept/_problem_>  <http://webisa.webdatacommons.org/prov/1778055>.
+<http://webisa.webdatacommons.org/concept/_%24%24%24%24_> <http://www.w3.org/2000/01/rdf-schema#label> "$$$$".
+<http://webisa.webdatacommons.org/concept/_%24%24%24%24_> <http://webisa.webdatacommons.org/ontology#hasHead> "$$$$".
+<http://webisa.webdatacommons.org/concept/_problem_> <http://www.w3.org/2000/01/rdf-schema#label> "problem".
+<http://webisa.webdatacommons.org/concept/_problem_> <http://webisa.webdatacommons.org/ontology#hasHead> "problem".
+<http://webisa.webdatacommons.org/prov/1778055> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/prov/1778055> <http://webisa.webdatacommons.org/ontology#hasPidSpread> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/1778055> <http://webisa.webdatacommons.org/ontology#hasPldSpread> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/1778055> <http://webisa.webdatacommons.org/ontology#hasFrequency> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/1778055> <http://webisa.webdatacommons.org/ontology#hasConfidence> "0.10459443282097901"^^<http://www.w3.org/2001/XMLSchema#float>.
+<http://webisa.webdatacommons.org/prov/1778055> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p2_activity>.
+<http://webisa.webdatacommons.org/prov/1778055> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p8a_activity>.
+<http://webisa.webdatacommons.org/prov/1778055> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/373738153>.
+<http://webisa.webdatacommons.org/373738153> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/373738153> <http://www.w3.org/ns/prov#value> "But finiding them is the problem I have, especially with no $$$$!".
+<http://webisa.webdatacommons.org/373738153> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://hackaday.com>.
+<http://webisa.webdatacommons.org/prov/1778055> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/444737922>.
+<http://webisa.webdatacommons.org/444737922> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/444737922> <http://www.w3.org/ns/prov#value> "Downtime is no problem at all, but wondering what the $$$$ is going on is a problem.".
+<http://webisa.webdatacommons.org/444737922> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://last.fm>.
+<http://webisa.webdatacommons.org/concept/_%24%24%24%24_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Dollar_sign>.
+<http://webisa.webdatacommons.org/concept/_problem_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Problem_solving>.
+
+<http://webisa.webdatacommons.org/concept/_1980_> <http://www.w3.org/2004/02/skos/core#broader> <http://webisa.webdatacommons.org/concept/_average_>  <http://webisa.webdatacommons.org/prov/1860560>.
+<http://webisa.webdatacommons.org/concept/_1980_> <http://www.w3.org/2000/01/rdf-schema#label> "1980".
+<http://webisa.webdatacommons.org/concept/_1980_> <http://webisa.webdatacommons.org/ontology#hasHead> "1980".
+<http://webisa.webdatacommons.org/concept/_average_> <http://www.w3.org/2000/01/rdf-schema#label> "average".
+<http://webisa.webdatacommons.org/concept/_average_> <http://webisa.webdatacommons.org/ontology#hasHead> "average".
+<http://webisa.webdatacommons.org/prov/1860560> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/prov/1860560> <http://webisa.webdatacommons.org/ontology#hasPidSpread> "3"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/1860560> <http://webisa.webdatacommons.org/ontology#hasPldSpread> "4"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/1860560> <http://webisa.webdatacommons.org/ontology#hasFrequency> "4"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/1860560> <http://webisa.webdatacommons.org/ontology#hasConfidence> "0.1105094274535305"^^<http://www.w3.org/2001/XMLSchema#float>.
+<http://webisa.webdatacommons.org/prov/1860560> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p23d_activity>.
+<http://webisa.webdatacommons.org/prov/1860560> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p8d_activity>.
+<http://webisa.webdatacommons.org/prov/1860560> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p8b_activity>.
+<http://webisa.webdatacommons.org/prov/1860560> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/293508792>.
+<http://webisa.webdatacommons.org/293508792> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/293508792> <http://www.w3.org/ns/prov#value> "In the 1980s, there was an annual average of less than two extreme weather events that caused at least $1 billion in damages, and the average annual total damages from these events was $20 billion (in 2012 dollars).".
+<http://webisa.webdatacommons.org/293508792> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://ecowatch.com>.
+<http://webisa.webdatacommons.org/prov/1860560> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/393858106>.
+<http://webisa.webdatacommons.org/393858106> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/393858106> <http://www.w3.org/ns/prov#value> "As the CAP study's authors point out, in the 1980s, there were an annual average of less than two extreme weather events causing more than a $1 billion (in inflation-adjusted dollars).".
+<http://webisa.webdatacommons.org/393858106> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://dailykos.com>.
+<http://webisa.webdatacommons.org/prov/1860560> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/293572474>.
+<http://webisa.webdatacommons.org/293572474> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/293572474> <http://www.w3.org/ns/prov#value> "In the 1980s, there was an annual average of less than two extreme weather events that caused at least $1 billion in damages, and the average annual total damages from these events was $20 billion (in 2012 dollars).".
+<http://webisa.webdatacommons.org/293572474> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://thinkprogress.org>.
+<http://webisa.webdatacommons.org/prov/1860560> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/38236872>.
+<http://webisa.webdatacommons.org/38236872> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/38236872> <http://www.w3.org/ns/prov#value> "The average is actually particularly low in the 1980s.".
+<http://webisa.webdatacommons.org/38236872> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://typepad.com>.
+<http://webisa.webdatacommons.org/concept/_1980_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/1980>.
+<http://webisa.webdatacommons.org/concept/_average_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Average>.
+
+<http://webisa.webdatacommons.org/concept/late_1990_> <http://www.w3.org/2004/02/skos/core#broader> <http://webisa.webdatacommons.org/concept/_program_>  <http://webisa.webdatacommons.org/prov/1867344>.
+<http://webisa.webdatacommons.org/concept/late_1990_> <http://www.w3.org/2000/01/rdf-schema#label> "late 1990".
+<http://webisa.webdatacommons.org/concept/late_1990_> <http://webisa.webdatacommons.org/ontology#hasHead> "1990".
+<http://webisa.webdatacommons.org/concept/_program_> <http://www.w3.org/2000/01/rdf-schema#label> "program".
+<http://webisa.webdatacommons.org/concept/_program_> <http://webisa.webdatacommons.org/ontology#hasHead> "program".
+<http://webisa.webdatacommons.org/concept/late_1990_> <http://webisa.webdatacommons.org/ontology#hasPreModifier> "late".
+<http://webisa.webdatacommons.org/prov/1867344> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/prov/1867344> <http://webisa.webdatacommons.org/ontology#hasPidSpread> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/1867344> <http://webisa.webdatacommons.org/ontology#hasPldSpread> "3"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/1867344> <http://webisa.webdatacommons.org/ontology#hasFrequency> "3"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/1867344> <http://webisa.webdatacommons.org/ontology#hasConfidence> "0.41007345590222616"^^<http://www.w3.org/2001/XMLSchema#float>.
+<http://webisa.webdatacommons.org/prov/1867344> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p1_activity>.
+<http://webisa.webdatacommons.org/prov/1867344> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p8b_activity>.
+<http://webisa.webdatacommons.org/prov/1867344> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/131259641>.
+<http://webisa.webdatacommons.org/131259641> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/131259641> <http://www.w3.org/ns/prov#value> "In the wake of several high-profile school shooting episodes in the late 1990s, many schools began to rapidly adopt anti-bullying and other violence-prevention policies and programs.".
+<http://webisa.webdatacommons.org/131259641> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://jamanetwork.com>.
+<http://webisa.webdatacommons.org/prov/1867344> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/273051790>.
+<http://webisa.webdatacommons.org/273051790> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/273051790> <http://www.w3.org/ns/prov#value> "The center has run out of money, and will probably shut its doors at the end of the year, though a community effort is in the works to salvage the program's services. ???We are going to try to figure out how to keep the services - maybe not the Center for Families, but there will be some kind of services,??? said Mayor Eddie A. Perez. ??? The center, established in the late 1990s, was a program of".
+<http://webisa.webdatacommons.org/273051790> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://trincoll.edu>.
+<http://webisa.webdatacommons.org/prov/1867344> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/225799751>.
+<http://webisa.webdatacommons.org/225799751> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/225799751> <http://www.w3.org/ns/prov#value> "That???s unfortunate because a bridge could be extremely beneficial for the Magic Kingdom resorts.Back in the late 1990s, there was a program to fund a walkway around the Seven Seas Lagoon.".
+<http://webisa.webdatacommons.org/225799751> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://themeparktourist.com>.
+<http://webisa.webdatacommons.org/concept/_program_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Program>.
+
+<http://webisa.webdatacommons.org/concept/_1940_> <http://www.w3.org/2004/02/skos/core#broader> <http://webisa.webdatacommons.org/concept/_example_>  <http://webisa.webdatacommons.org/prov/1876850>.
+<http://webisa.webdatacommons.org/concept/_1940_> <http://www.w3.org/2000/01/rdf-schema#label> "1940".
+<http://webisa.webdatacommons.org/concept/_1940_> <http://webisa.webdatacommons.org/ontology#hasHead> "1940".
+<http://webisa.webdatacommons.org/concept/_example_> <http://www.w3.org/2000/01/rdf-schema#label> "example".
+<http://webisa.webdatacommons.org/concept/_example_> <http://webisa.webdatacommons.org/ontology#hasHead> "example".
+<http://webisa.webdatacommons.org/prov/1876850> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/prov/1876850> <http://webisa.webdatacommons.org/ontology#hasPidSpread> "3"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/1876850> <http://webisa.webdatacommons.org/ontology#hasPldSpread> "5"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/1876850> <http://webisa.webdatacommons.org/ontology#hasFrequency> "5"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/1876850> <http://webisa.webdatacommons.org/ontology#hasConfidence> "0.09681421609041069"^^<http://www.w3.org/2001/XMLSchema#float>.
+<http://webisa.webdatacommons.org/prov/1876850> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p23b_activity>.
+<http://webisa.webdatacommons.org/prov/1876850> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p8a_activity>.
+<http://webisa.webdatacommons.org/prov/1876850> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p8c_activity>.
+<http://webisa.webdatacommons.org/prov/1876850> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/2613474>.
+<http://webisa.webdatacommons.org/2613474> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/2613474> <http://www.w3.org/ns/prov#value> "Built to a fairly standard design used throughout the 1940s and early 1950s in Winnipeg, River Heights School is an example of the larger variant of the design.".
+<http://webisa.webdatacommons.org/2613474> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://archiseek.com>.
+<http://webisa.webdatacommons.org/prov/1876850> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/55374788>.
+<http://webisa.webdatacommons.org/55374788> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/55374788> <http://www.w3.org/ns/prov#value> "The examples shown here are mostly from the 1930???s and 1940???s and their covers tend to have a linen finish of the type associated with Curt Teich cards.".
+<http://webisa.webdatacommons.org/55374788> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://blogspot.com>.
+<http://webisa.webdatacommons.org/prov/1876850> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/254583752>.
+<http://webisa.webdatacommons.org/254583752> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/254583752> <http://www.w3.org/ns/prov#value> "Built in the 1940s, is an example of the neo-colonial architecture in Arequipa.".
+<http://webisa.webdatacommons.org/254583752> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://wikipedia.org>.
+<http://webisa.webdatacommons.org/prov/1876850> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/127765640>.
+<http://webisa.webdatacommons.org/127765640> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/127765640> <http://www.w3.org/ns/prov#value> "tion of iron in aqueous samples was developed in the 1940s and is an example of a non-".
+<http://webisa.webdatacommons.org/127765640> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://slideshare.net>.
+<http://webisa.webdatacommons.org/prov/1876850> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/326633355>.
+<http://webisa.webdatacommons.org/326633355> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/326633355> <http://www.w3.org/ns/prov#value> "The vintage set of primary colored mixing bowls that were introduced in the 1940s are an example of a valuable collectible set.".
+<http://webisa.webdatacommons.org/326633355> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://pyrexlids.com>.
+<http://webisa.webdatacommons.org/concept/_1940_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/1940>.
+<http://webisa.webdatacommons.org/concept/_example_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Example>.
+
+<http://webisa.webdatacommons.org/concept/_1980_> <http://www.w3.org/2004/02/skos/core#broader> <http://webisa.webdatacommons.org/concept/_durang%27_>  <http://webisa.webdatacommons.org/prov/2003522>.
+<http://webisa.webdatacommons.org/concept/_1980_> <http://www.w3.org/2000/01/rdf-schema#label> "1980".
+<http://webisa.webdatacommons.org/concept/_1980_> <http://webisa.webdatacommons.org/ontology#hasHead> "1980".
+<http://webisa.webdatacommons.org/concept/_durang%27_> <http://www.w3.org/2000/01/rdf-schema#label> "durang'".
+<http://webisa.webdatacommons.org/concept/_durang%27_> <http://webisa.webdatacommons.org/ontology#hasHead> "durang'".
+<http://webisa.webdatacommons.org/prov/2003522> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/prov/2003522> <http://webisa.webdatacommons.org/ontology#hasPidSpread> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2003522> <http://webisa.webdatacommons.org/ontology#hasPldSpread> "3"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2003522> <http://webisa.webdatacommons.org/ontology#hasFrequency> "3"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2003522> <http://webisa.webdatacommons.org/ontology#hasConfidence> "0.06870326365350275"^^<http://www.w3.org/2001/XMLSchema#float>.
+<http://webisa.webdatacommons.org/prov/2003522> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p23d_activity>.
+<http://webisa.webdatacommons.org/prov/2003522> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p2_activity>.
+<http://webisa.webdatacommons.org/prov/2003522> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/179445241>.
+<http://webisa.webdatacommons.org/179445241> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/179445241> <http://www.w3.org/ns/prov#value> "Durang's work was especially popular in the 1980s, though his career seemed to get a second wind in the late 1990s.".
+<http://webisa.webdatacommons.org/179445241> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://sootoday.com>.
+<http://webisa.webdatacommons.org/prov/2003522> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/73847330>.
+<http://webisa.webdatacommons.org/73847330> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/73847330> <http://www.w3.org/ns/prov#value> "Durang's work was particularly popular in the 1980s, and features outrageous and often absurd comedy (according to Wikipedia).".
+<http://webisa.webdatacommons.org/73847330> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://talkinbroadway.com>.
+<http://webisa.webdatacommons.org/prov/2003522> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/179531191>.
+<http://webisa.webdatacommons.org/179531191> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/179531191> <http://www.w3.org/ns/prov#value> "Durang's work was especially popular in the 1980s, though his career seemed to get a second wind in the late 1990s.".
+<http://webisa.webdatacommons.org/179531191> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://lssu.edu>.
+<http://webisa.webdatacommons.org/concept/_1980_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/1980>.
+
+<http://webisa.webdatacommons.org/concept/_2011_> <http://www.w3.org/2004/02/skos/core#broader> <http://webisa.webdatacommons.org/concept/cooler_vintage_>  <http://webisa.webdatacommons.org/prov/2054725>.
+<http://webisa.webdatacommons.org/concept/_2011_> <http://www.w3.org/2000/01/rdf-schema#label> "2011".
+<http://webisa.webdatacommons.org/concept/_2011_> <http://webisa.webdatacommons.org/ontology#hasHead> "2011".
+<http://webisa.webdatacommons.org/concept/cooler_vintage_> <http://www.w3.org/2000/01/rdf-schema#label> "cooler vintage".
+<http://webisa.webdatacommons.org/concept/cooler_vintage_> <http://webisa.webdatacommons.org/ontology#hasHead> "vintage".
+<http://webisa.webdatacommons.org/concept/cooler_vintage_> <http://webisa.webdatacommons.org/ontology#hasPreModifier> "cooler".
+<http://webisa.webdatacommons.org/prov/2054725> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/prov/2054725> <http://webisa.webdatacommons.org/ontology#hasPidSpread> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2054725> <http://webisa.webdatacommons.org/ontology#hasPldSpread> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2054725> <http://webisa.webdatacommons.org/ontology#hasFrequency> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2054725> <http://webisa.webdatacommons.org/ontology#hasConfidence> "0.3316067867783136"^^<http://www.w3.org/2001/XMLSchema#float>.
+<http://webisa.webdatacommons.org/prov/2054725> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p5_activity>.
+<http://webisa.webdatacommons.org/prov/2054725> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p8b_activity>.
+<http://webisa.webdatacommons.org/prov/2054725> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/414286304>.
+<http://webisa.webdatacommons.org/414286304> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/414286304> <http://www.w3.org/ns/prov#value> "It is one of the warmest areas in the state for growing wine grapes, and it is remote, with just a small number of wineries in the region.I like it a lot, Gore said of the Wahluke Slope, as he pointed out that it consistently is one area of the Columbia Valley that can easily ripen grapes even in cooler vintages such as 2010 and 2011.Gore first visited the area in 1986, when just a few vineyards".
+<http://webisa.webdatacommons.org/414286304> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://heraldnet.com>.
+<http://webisa.webdatacommons.org/prov/2054725> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/270316635>.
+<http://webisa.webdatacommons.org/270316635> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/270316635> <http://www.w3.org/ns/prov#value> "???2011 was a cooler vintage and the vines became prone to disease, but our biodynamic vineyards were in a considerably healthier state with thicker skins, which proves that biodynamic grapes perform better in more difficult years,??? he told db.".
+<http://webisa.webdatacommons.org/270316635> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://thedrinksbusiness.com>.
+<http://webisa.webdatacommons.org/concept/_2011_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/2011>.
+
+<http://webisa.webdatacommons.org/concept/_2012_> <http://www.w3.org/2004/02/skos/core#broader> <http://webisa.webdatacommons.org/concept/_version_of+song>  <http://webisa.webdatacommons.org/prov/2075673>.
+<http://webisa.webdatacommons.org/concept/_2012_> <http://www.w3.org/2000/01/rdf-schema#label> "2012".
+<http://webisa.webdatacommons.org/concept/_2012_> <http://webisa.webdatacommons.org/ontology#hasHead> "2012".
+<http://webisa.webdatacommons.org/concept/_version_of+song> <http://www.w3.org/2000/01/rdf-schema#label> "version of song".
+<http://webisa.webdatacommons.org/concept/_version_of+song> <http://webisa.webdatacommons.org/ontology#hasHead> "version".
+<http://webisa.webdatacommons.org/concept/_version_of+song> <http://webisa.webdatacommons.org/ontology#hasPostModifier> "of song".
+<http://webisa.webdatacommons.org/prov/2075673> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/prov/2075673> <http://webisa.webdatacommons.org/ontology#hasPidSpread> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2075673> <http://webisa.webdatacommons.org/ontology#hasPldSpread> "3"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2075673> <http://webisa.webdatacommons.org/ontology#hasFrequency> "4"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2075673> <http://webisa.webdatacommons.org/ontology#hasConfidence> "0.22008990033726014"^^<http://www.w3.org/2001/XMLSchema#float>.
+<http://webisa.webdatacommons.org/prov/2075673> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p8a_activity>.
+<http://webisa.webdatacommons.org/prov/2075673> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p20a_activity>.
+<http://webisa.webdatacommons.org/prov/2075673> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/349654808>.
+<http://webisa.webdatacommons.org/349654808> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/349654808> <http://www.w3.org/ns/prov#value> "Wei?? auch jetzt, warum.30.04.2012 19:10Fritz260449Member*Schrott31.05.2012 09:43KamalaMember***...diese Stimmen passen nicht zum gecoverten Titel...23.04.2013 01:43billbeastMember****Love Spit Love is the best version of this song, but this cover is still pretty cool23.06.2013 21:31James EgonMember****o.k.30.01.2014 13:51Roger H???rlimannMember*Sehr langweiliges Cover der Pseudolesben aus Russlan".
+<http://webisa.webdatacommons.org/349654808> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://swisscharts.com>.
+<http://webisa.webdatacommons.org/prov/2075673> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/144229210>.
+<http://webisa.webdatacommons.org/144229210> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/144229210> <http://www.w3.org/ns/prov#value> "kprincessXMember*****Sch??n08.06.2012 13:02alleyt1989Member***There is an acoustic version of this song here: http://www.youtube.com/watch?v=S8httDjxJqIThis is the version I love so much!The proper version though is a little too generic.".
+<http://webisa.webdatacommons.org/144229210> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://swisscharts.com>.
+<http://webisa.webdatacommons.org/prov/2075673> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/92147536>.
+<http://webisa.webdatacommons.org/92147536> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/92147536> <http://www.w3.org/ns/prov#value> "Wei?? auch jetzt, warum.30.04.2012 19:10Fritz260449Member*Schrott31.05.2012 09:43KamalaMember***...diese Stimmen passen nicht zum gecoverten Titel...23.04.2013 01:43billbeastMember****Love Spit Love is the best version of this song, but this cover is still pretty cool23.06.2013 21:31James EgonMember****o.k.30.0".
+<http://webisa.webdatacommons.org/92147536> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://swedishcharts.com>.
+<http://webisa.webdatacommons.org/prov/2075673> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/424942221>.
+<http://webisa.webdatacommons.org/424942221> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/424942221> <http://www.w3.org/ns/prov#value> "Wei?? auch jetzt, warum.30.04.2012 19:10Fritz260449Member*Schrott31.05.2012 09:43KamalaMember***...diese Stimmen passen nicht zum gecoverten Titel...23.04.2013 01:43billbeastMember****Love Spit Love is the best version of this song, but this cover is still pretty cool23.06.2013 21:31Jam".
+<http://webisa.webdatacommons.org/424942221> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://austriancharts.at>.
+<http://webisa.webdatacommons.org/concept/_2012_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/2012>.
+
+<http://webisa.webdatacommons.org/concept/late_1960_> <http://www.w3.org/2004/02/skos/core#broader> <http://webisa.webdatacommons.org/concept/_pioneer_>  <http://webisa.webdatacommons.org/prov/2142769>.
+<http://webisa.webdatacommons.org/concept/late_1960_> <http://www.w3.org/2000/01/rdf-schema#label> "late 1960".
+<http://webisa.webdatacommons.org/concept/late_1960_> <http://webisa.webdatacommons.org/ontology#hasHead> "1960".
+<http://webisa.webdatacommons.org/concept/_pioneer_> <http://www.w3.org/2000/01/rdf-schema#label> "pioneer".
+<http://webisa.webdatacommons.org/concept/_pioneer_> <http://webisa.webdatacommons.org/ontology#hasHead> "pioneer".
+<http://webisa.webdatacommons.org/concept/late_1960_> <http://webisa.webdatacommons.org/ontology#hasPreModifier> "late".
+<http://webisa.webdatacommons.org/prov/2142769> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/prov/2142769> <http://webisa.webdatacommons.org/ontology#hasPidSpread> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2142769> <http://webisa.webdatacommons.org/ontology#hasPldSpread> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2142769> <http://webisa.webdatacommons.org/ontology#hasFrequency> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2142769> <http://webisa.webdatacommons.org/ontology#hasConfidence> "0.36078008785465626"^^<http://www.w3.org/2001/XMLSchema#float>.
+<http://webisa.webdatacommons.org/prov/2142769> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p8a_activity>.
+<http://webisa.webdatacommons.org/prov/2142769> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p8b_activity>.
+<http://webisa.webdatacommons.org/prov/2142769> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/95790564>.
+<http://webisa.webdatacommons.org/95790564> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/95790564> <http://www.w3.org/ns/prov#value> "CCDs and CMOS imagers were both invented in the late 1960s and 1970s (DALSA founder Dr. Savvas Chamberlain was a pioneer in developing both technologies).".
+<http://webisa.webdatacommons.org/95790564> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://teledynedalsa.com>.
+<http://webisa.webdatacommons.org/prov/2142769> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/380481061>.
+<http://webisa.webdatacommons.org/380481061> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/380481061> <http://www.w3.org/ns/prov#value> "???Having installed moisture separator reheaters at nuclear power plants since the late 1960s, SPX is a pioneer of this key technology in nuclear power generation and has supplied Balcke-Duerr-branded moisture separator reheaters to power plants throughout Germany,??? Drew Ladau, SPX segment president, said in a statement. ???We supplied the replacement MSRs for Biblis plant B in 2003, and we appr".
+<http://webisa.webdatacommons.org/380481061> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://mecktimes.com>.
+<http://webisa.webdatacommons.org/concept/_pioneer_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Pioneer>.
+
+<http://webisa.webdatacommons.org/concept/_1970_> <http://www.w3.org/2004/02/skos/core#broader> <http://webisa.webdatacommons.org/concept/_novelty_>  <http://webisa.webdatacommons.org/prov/2208176>.
+<http://webisa.webdatacommons.org/concept/_1970_> <http://www.w3.org/2000/01/rdf-schema#label> "1970".
+<http://webisa.webdatacommons.org/concept/_1970_> <http://webisa.webdatacommons.org/ontology#hasHead> "1970".
+<http://webisa.webdatacommons.org/concept/_novelty_> <http://www.w3.org/2000/01/rdf-schema#label> "novelty".
+<http://webisa.webdatacommons.org/concept/_novelty_> <http://webisa.webdatacommons.org/ontology#hasHead> "novelty".
+<http://webisa.webdatacommons.org/prov/2208176> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/prov/2208176> <http://webisa.webdatacommons.org/ontology#hasPidSpread> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2208176> <http://webisa.webdatacommons.org/ontology#hasPldSpread> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2208176> <http://webisa.webdatacommons.org/ontology#hasFrequency> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2208176> <http://webisa.webdatacommons.org/ontology#hasConfidence> "0.1372864252441796"^^<http://www.w3.org/2001/XMLSchema#float>.
+<http://webisa.webdatacommons.org/prov/2208176> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p8d_activity>.
+<http://webisa.webdatacommons.org/prov/2208176> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p8b_activity>.
+<http://webisa.webdatacommons.org/prov/2208176> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/162003089>.
+<http://webisa.webdatacommons.org/162003089> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/162003089> <http://www.w3.org/ns/prov#value> "As recently as the 1970s, wireless was a novelty and although appealing, in many situations it presented as many problems as it did benefits.".
+<http://webisa.webdatacommons.org/162003089> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://locksmithledger.com>.
+<http://webisa.webdatacommons.org/prov/2208176> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/49027387>.
+<http://webisa.webdatacommons.org/49027387> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/49027387> <http://www.w3.org/ns/prov#value> "As mentioned in the opening, the 1970s were a decade of format tweaks and novelty comics, a mad scramble to replace the audiences shedding the traditional comic book and weekly spinner rack visit.".
+<http://webisa.webdatacommons.org/49027387> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://comicsreporter.com>.
+<http://webisa.webdatacommons.org/concept/_1970_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/1970>.
+<http://webisa.webdatacommons.org/concept/_novelty_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Novelty>.
+
+<http://webisa.webdatacommons.org/concept/_1960_> <http://www.w3.org/2004/02/skos/core#broader> <http://webisa.webdatacommons.org/concept/_america_>  <http://webisa.webdatacommons.org/prov/2287103>.
+<http://webisa.webdatacommons.org/concept/_1960_> <http://www.w3.org/2000/01/rdf-schema#label> "1960".
+<http://webisa.webdatacommons.org/concept/_1960_> <http://webisa.webdatacommons.org/ontology#hasHead> "1960".
+<http://webisa.webdatacommons.org/concept/_america_> <http://www.w3.org/2000/01/rdf-schema#label> "america".
+<http://webisa.webdatacommons.org/concept/_america_> <http://webisa.webdatacommons.org/ontology#hasHead> "america".
+<http://webisa.webdatacommons.org/prov/2287103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/prov/2287103> <http://webisa.webdatacommons.org/ontology#hasPidSpread> "6"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2287103> <http://webisa.webdatacommons.org/ontology#hasPldSpread> "6"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2287103> <http://webisa.webdatacommons.org/ontology#hasFrequency> "6"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2287103> <http://webisa.webdatacommons.org/ontology#hasConfidence> "0.106921891396265"^^<http://www.w3.org/2001/XMLSchema#float>.
+<http://webisa.webdatacommons.org/prov/2287103> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p23d_activity>.
+<http://webisa.webdatacommons.org/prov/2287103> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p2_activity>.
+<http://webisa.webdatacommons.org/prov/2287103> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p15a_activity>.
+<http://webisa.webdatacommons.org/prov/2287103> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p23a_activity>.
+<http://webisa.webdatacommons.org/prov/2287103> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p23b_activity>.
+<http://webisa.webdatacommons.org/prov/2287103> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p12a_activity>.
+<http://webisa.webdatacommons.org/prov/2287103> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/138141768>.
+<http://webisa.webdatacommons.org/138141768> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/138141768> <http://www.w3.org/ns/prov#value> "They are highly educated people who arrived in America mostly during the 1960s, and in the end found great lives in America's universities, investment banks, Silicon Valley and business.".
+<http://webisa.webdatacommons.org/138141768> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://americanthinker.com>.
+<http://webisa.webdatacommons.org/prov/2287103> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/216430090>.
+<http://webisa.webdatacommons.org/216430090> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/216430090> <http://www.w3.org/ns/prov#value> "This program pairs two very different short documentaries about water: Susan Edwards' Marion Stoddart: The Work of 1000 (USA, 30 min.) takes us back to the 1960s and Massachusetts' Nashua River, one of the most polluted in America.".
+<http://webisa.webdatacommons.org/216430090> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://talkingpicturesfestival.org>.
+<http://webisa.webdatacommons.org/prov/2287103> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/358996877>.
+<http://webisa.webdatacommons.org/358996877> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/358996877> <http://www.w3.org/ns/prov#value> "America, particularly in the 1960s, you are only as good as your last movie.".
+<http://webisa.webdatacommons.org/358996877> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://fistful-of-leone.com>.
+<http://webisa.webdatacommons.org/prov/2287103> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/110266804>.
+<http://webisa.webdatacommons.org/110266804> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/110266804> <http://www.w3.org/ns/prov#value> "The Beatles are among the most influential popular music artists of the second half of the 20th century, affecting the culture of Britain and America and the postwar baby boom generation, and the entire English-speaking world, especially during the 1960s and early 1970s.".
+<http://webisa.webdatacommons.org/110266804> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://biographyworld.net>.
+<http://webisa.webdatacommons.org/prov/2287103> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/332466873>.
+<http://webisa.webdatacommons.org/332466873> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/332466873> <http://www.w3.org/ns/prov#value> "During the 1960s I also began to assemble examples of tribal and oral poetry from Africa, America, Asia, and Oceania that would form the basis of my first large anthology, Technicians of the Sacred, published in its initial version in 1968. (An expanded edition, incorporating additional poetry from Europe, appeared in 1985 and remains in print from University of California Press.) This marked the".
+<http://webisa.webdatacommons.org/332466873> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://blogspot.com>.
+<http://webisa.webdatacommons.org/prov/2287103> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/218507901>.
+<http://webisa.webdatacommons.org/218507901> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/218507901> <http://www.w3.org/ns/prov#value> "The autobiographical pieces included in WHY I LEFT AMERICA AND OTHER ESSAYS, written mainly during the 1960s and 1970s, detail Oliver W. Harrington???s experiences as an African American artist in exile.".
+<http://webisa.webdatacommons.org/218507901> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://zenosbooks.com>.
+<http://webisa.webdatacommons.org/concept/_1960_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/1960>.
+<http://webisa.webdatacommons.org/concept/_america_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/United_States>.
+
+<http://webisa.webdatacommons.org/concept/_1880_> <http://www.w3.org/2004/02/skos/core#broader> <http://webisa.webdatacommons.org/concept/_company_>  <http://webisa.webdatacommons.org/prov/2367176>.
+<http://webisa.webdatacommons.org/concept/_1880_> <http://www.w3.org/2000/01/rdf-schema#label> "1880".
+<http://webisa.webdatacommons.org/concept/_1880_> <http://webisa.webdatacommons.org/ontology#hasHead> "1880".
+<http://webisa.webdatacommons.org/concept/_company_> <http://www.w3.org/2000/01/rdf-schema#label> "company".
+<http://webisa.webdatacommons.org/concept/_company_> <http://webisa.webdatacommons.org/ontology#hasHead> "company".
+<http://webisa.webdatacommons.org/prov/2367176> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/prov/2367176> <http://webisa.webdatacommons.org/ontology#hasPidSpread> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2367176> <http://webisa.webdatacommons.org/ontology#hasPldSpread> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2367176> <http://webisa.webdatacommons.org/ontology#hasFrequency> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2367176> <http://webisa.webdatacommons.org/ontology#hasConfidence> "0.09297292282693444"^^<http://www.w3.org/2001/XMLSchema#float>.
+<http://webisa.webdatacommons.org/prov/2367176> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p23d_activity>.
+<http://webisa.webdatacommons.org/prov/2367176> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p20a_activity>.
+<http://webisa.webdatacommons.org/prov/2367176> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/127006250>.
+<http://webisa.webdatacommons.org/127006250> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/127006250> <http://www.w3.org/ns/prov#value> "Elsevier was founded in 1880 and is the oldest and largest company dating from that time.[4]".
+<http://webisa.webdatacommons.org/127006250> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://wikipedia.org>.
+<http://webisa.webdatacommons.org/prov/2367176> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/234112327>.
+<http://webisa.webdatacommons.org/234112327> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/234112327> <http://www.w3.org/ns/prov#value> "Holding companies were particularly flagrant in the 1880s and 1920s and we???ve gotten rid of them before.".
+<http://webisa.webdatacommons.org/234112327> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://blogcritics.org>.
+<http://webisa.webdatacommons.org/concept/_1880_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/1880>.
+<http://webisa.webdatacommons.org/concept/_company_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Company>.
+
+<http://webisa.webdatacommons.org/concept/_1970_> <http://www.w3.org/2004/02/skos/core#broader> <http://webisa.webdatacommons.org/concept/_outlier_in+term>  <http://webisa.webdatacommons.org/prov/2370826>.
+<http://webisa.webdatacommons.org/concept/_1970_> <http://www.w3.org/2000/01/rdf-schema#label> "1970".
+<http://webisa.webdatacommons.org/concept/_1970_> <http://webisa.webdatacommons.org/ontology#hasHead> "1970".
+<http://webisa.webdatacommons.org/concept/_outlier_in+term> <http://www.w3.org/2000/01/rdf-schema#label> "outlier in term".
+<http://webisa.webdatacommons.org/concept/_outlier_in+term> <http://webisa.webdatacommons.org/ontology#hasHead> "outlier".
+<http://webisa.webdatacommons.org/concept/_outlier_in+term> <http://webisa.webdatacommons.org/ontology#hasPostModifier> "in term".
+<http://webisa.webdatacommons.org/prov/2370826> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/prov/2370826> <http://webisa.webdatacommons.org/ontology#hasPidSpread> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2370826> <http://webisa.webdatacommons.org/ontology#hasPldSpread> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2370826> <http://webisa.webdatacommons.org/ontology#hasFrequency> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2370826> <http://webisa.webdatacommons.org/ontology#hasConfidence> "0.16995094328952426"^^<http://www.w3.org/2001/XMLSchema#float>.
+<http://webisa.webdatacommons.org/prov/2370826> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p8c_activity>.
+<http://webisa.webdatacommons.org/prov/2370826> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p8b_activity>.
+<http://webisa.webdatacommons.org/prov/2370826> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/193503297>.
+<http://webisa.webdatacommons.org/193503297> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/193503297> <http://www.w3.org/ns/prov#value> "What this historical research shows is that the 20th Century, primarily the period between the start of World War I and the 1970s, was an outlier in terms of its level of equality.".
+<http://webisa.webdatacommons.org/193503297> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://mjanes.com>.
+<http://webisa.webdatacommons.org/prov/2370826> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/101812426>.
+<http://webisa.webdatacommons.org/101812426> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/101812426> <http://www.w3.org/ns/prov#value> "So the 1970s are an outlier in terms of loose money, even adjusting for the size of the workforce.".
+<http://webisa.webdatacommons.org/101812426> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://interfluidity.com>.
+<http://webisa.webdatacommons.org/concept/_1970_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/1970>.
+
+<http://webisa.webdatacommons.org/concept/_2002_> <http://www.w3.org/2004/02/skos/core#broader> <http://webisa.webdatacommons.org/concept/_edition_>  <http://webisa.webdatacommons.org/prov/2392257>.
+<http://webisa.webdatacommons.org/concept/_2002_> <http://www.w3.org/2000/01/rdf-schema#label> "2002".
+<http://webisa.webdatacommons.org/concept/_2002_> <http://webisa.webdatacommons.org/ontology#hasHead> "2002".
+<http://webisa.webdatacommons.org/concept/_edition_> <http://www.w3.org/2000/01/rdf-schema#label> "edition".
+<http://webisa.webdatacommons.org/concept/_edition_> <http://webisa.webdatacommons.org/ontology#hasHead> "edition".
+<http://webisa.webdatacommons.org/prov/2392257> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/prov/2392257> <http://webisa.webdatacommons.org/ontology#hasPidSpread> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2392257> <http://webisa.webdatacommons.org/ontology#hasPldSpread> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2392257> <http://webisa.webdatacommons.org/ontology#hasFrequency> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2392257> <http://webisa.webdatacommons.org/ontology#hasConfidence> "0.15094329211774438"^^<http://www.w3.org/2001/XMLSchema#float>.
+<http://webisa.webdatacommons.org/prov/2392257> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p8a_activity>.
+<http://webisa.webdatacommons.org/prov/2392257> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p20a_activity>.
+<http://webisa.webdatacommons.org/prov/2392257> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/63126313>.
+<http://webisa.webdatacommons.org/63126313> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/63126313> <http://www.w3.org/ns/prov#value> "Landschaft, c.2002 Posters is a beauteous edition of the pleasant childhood classic.".
+<http://webisa.webdatacommons.org/63126313> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://keyposters.com>.
+<http://webisa.webdatacommons.org/prov/2392257> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/57962564>.
+<http://webisa.webdatacommons.org/57962564> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/57962564> <http://www.w3.org/ns/prov#value> "ISO/IEC11801:2002 is the latest edition, and cables meeting this edition are compliant with the specifications of clause 15.".
+<http://webisa.webdatacommons.org/57962564> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://ieee.org>.
+<http://webisa.webdatacommons.org/concept/_2002_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/2002>.
+<http://webisa.webdatacommons.org/concept/_edition_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Edition>.
+
+<http://webisa.webdatacommons.org/concept/_1920_> <http://www.w3.org/2004/02/skos/core#broader> <http://webisa.webdatacommons.org/concept/_company_>  <http://webisa.webdatacommons.org/prov/2431832>.
+<http://webisa.webdatacommons.org/concept/_1920_> <http://www.w3.org/2000/01/rdf-schema#label> "1920".
+<http://webisa.webdatacommons.org/concept/_1920_> <http://webisa.webdatacommons.org/ontology#hasHead> "1920".
+<http://webisa.webdatacommons.org/concept/_company_> <http://www.w3.org/2000/01/rdf-schema#label> "company".
+<http://webisa.webdatacommons.org/concept/_company_> <http://webisa.webdatacommons.org/ontology#hasHead> "company".
+<http://webisa.webdatacommons.org/prov/2431832> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/prov/2431832> <http://webisa.webdatacommons.org/ontology#hasPidSpread> "3"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2431832> <http://webisa.webdatacommons.org/ontology#hasPldSpread> "4"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2431832> <http://webisa.webdatacommons.org/ontology#hasFrequency> "4"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2431832> <http://webisa.webdatacommons.org/ontology#hasConfidence> "0.12517986616310767"^^<http://www.w3.org/2001/XMLSchema#float>.
+<http://webisa.webdatacommons.org/prov/2431832> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p23d_activity>.
+<http://webisa.webdatacommons.org/prov/2431832> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p1_activity>.
+<http://webisa.webdatacommons.org/prov/2431832> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p24_activity>.
+<http://webisa.webdatacommons.org/prov/2431832> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/23202697>.
+<http://webisa.webdatacommons.org/23202697> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/23202697> <http://www.w3.org/ns/prov#value> "There are many St. Patrick's Day postcards from the 1910s and 1920s, and Avery Dennison and other companies made green crepe paper and cutouts for holiday tables.".
+<http://webisa.webdatacommons.org/23202697> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://jsonline.com>.
+<http://webisa.webdatacommons.org/prov/2431832> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/52755827>.
+<http://webisa.webdatacommons.org/52755827> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/52755827> <http://www.w3.org/ns/prov#value> "There were some companies particularly in the 1920s that decided long hours would undermine their work forces through the long-term effects of long hours.".
+<http://webisa.webdatacommons.org/52755827> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://pbs.org>.
+<http://webisa.webdatacommons.org/prov/2431832> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/306134715>.
+<http://webisa.webdatacommons.org/306134715> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/306134715> <http://www.w3.org/ns/prov#value> "Three companies in particular emerged in the late 1920s as the largest aeronautic concerns: the Aviation Corporation of the Americas (Avco), run by Averell Harriman and the Lehman Brothers investment firm; the Boeing/Rentschler consortium known as United Aircraft and Transportation; and North American Aviation, the predecessor of Rockwell International, organized by a New York financier named Clem".
+<http://webisa.webdatacommons.org/306134715> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://managementparadise.com>.
+<http://webisa.webdatacommons.org/prov/2431832> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/234112327>.
+<http://webisa.webdatacommons.org/234112327> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/234112327> <http://www.w3.org/ns/prov#value> "Holding companies were particularly flagrant in the 1880s and 1920s and we???ve gotten rid of them before.".
+<http://webisa.webdatacommons.org/234112327> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://blogcritics.org>.
+<http://webisa.webdatacommons.org/concept/_1920_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/1920>.
+<http://webisa.webdatacommons.org/concept/_company_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Company>.
+
+<http://webisa.webdatacommons.org/concept/_1980_> <http://www.w3.org/2004/02/skos/core#broader> <http://webisa.webdatacommons.org/concept/_example_>  <http://webisa.webdatacommons.org/prov/2460207>.
+<http://webisa.webdatacommons.org/concept/_1980_> <http://www.w3.org/2000/01/rdf-schema#label> "1980".
+<http://webisa.webdatacommons.org/concept/_1980_> <http://webisa.webdatacommons.org/ontology#hasHead> "1980".
+<http://webisa.webdatacommons.org/concept/_example_> <http://www.w3.org/2000/01/rdf-schema#label> "example".
+<http://webisa.webdatacommons.org/concept/_example_> <http://webisa.webdatacommons.org/ontology#hasHead> "example".
+<http://webisa.webdatacommons.org/prov/2460207> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/prov/2460207> <http://webisa.webdatacommons.org/ontology#hasPidSpread> "6"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2460207> <http://webisa.webdatacommons.org/ontology#hasPldSpread> "12"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2460207> <http://webisa.webdatacommons.org/ontology#hasFrequency> "12"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2460207> <http://webisa.webdatacommons.org/ontology#hasConfidence> "0.20598446712824245"^^<http://www.w3.org/2001/XMLSchema#float>.
+<http://webisa.webdatacommons.org/prov/2460207> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p2_activity>.
+<http://webisa.webdatacommons.org/prov/2460207> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p1_activity>.
+<http://webisa.webdatacommons.org/prov/2460207> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p12a_activity>.
+<http://webisa.webdatacommons.org/prov/2460207> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p8a_activity>.
+<http://webisa.webdatacommons.org/prov/2460207> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p8c_activity>.
+<http://webisa.webdatacommons.org/prov/2460207> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p8b_activity>.
+<http://webisa.webdatacommons.org/prov/2460207> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/435750627>.
+<http://webisa.webdatacommons.org/435750627> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/435750627> <http://www.w3.org/ns/prov#value> "The 1980???s was an example of finding how many dollars can float.".
+<http://webisa.webdatacommons.org/435750627> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://mythfighter.com>.
+<http://webisa.webdatacommons.org/prov/2460207> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/205311332>.
+<http://webisa.webdatacommons.org/205311332> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/205311332> <http://www.w3.org/ns/prov#value> "It was only at the insistence of the Reagan administration that Conrail was eventually privatized in the 1980s, one of the very few examples of a government-created venture finally concluding.".
+<http://webisa.webdatacommons.org/205311332> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://pjmedia.com>.
+<http://webisa.webdatacommons.org/prov/2460207> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/172819334>.
+<http://webisa.webdatacommons.org/172819334> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/172819334> <http://www.w3.org/ns/prov#value> "But it was the 1980s, and the obit is an example of how the Times, as consistently as it could get away with, avoided LGBT issues and pushed them as far from sight as possible.".
+<http://webisa.webdatacommons.org/172819334> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://buzzfeed.com>.
+<http://webisa.webdatacommons.org/prov/2460207> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/237813352>.
+<http://webisa.webdatacommons.org/237813352> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/237813352> <http://www.w3.org/ns/prov#value> "Federal tax policies from the 1950s into the 1980s are an example.".
+<http://webisa.webdatacommons.org/237813352> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://minneapolisfed.org>.
+<http://webisa.webdatacommons.org/prov/2460207> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/138527986>.
+<http://webisa.webdatacommons.org/138527986> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/138527986> <http://www.w3.org/ns/prov#value> "The 1980s are a fine example of spending a ton on the military without very many people actually dying.".
+<http://webisa.webdatacommons.org/138527986> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://occupywallst.org>.
+<http://webisa.webdatacommons.org/prov/2460207> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/342676280>.
+<http://webisa.webdatacommons.org/342676280> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/342676280> <http://www.w3.org/ns/prov#value> "tes_presidential_election,_1924http://en.wikipedia.org/wiki/United_States_presidential_election,_1948http://en.wikipedia.org/wiki/United_States_presidential_election,_1968http://en.wikipedia.org/wiki/United_States_presidential_election,_1980 http://en.wikipedia.org/wiki/United_States_presidential_election,_1992http://en.wikipedia.org/wiki/United_States_presidential_election,_1996 here is an example".
+<http://webisa.webdatacommons.org/342676280> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://rationalrevolution.net>.
+<http://webisa.webdatacommons.org/prov/2460207> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/411010066>.
+<http://webisa.webdatacommons.org/411010066> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/411010066> <http://www.w3.org/ns/prov#value> "Our successes in Britain in the 1970s and 1980s are a good example of this flexible and principled approach.".
+<http://webisa.webdatacommons.org/411010066> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://socialistpartyaustralia.org>.
+<http://webisa.webdatacommons.org/prov/2460207> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/249273618>.
+<http://webisa.webdatacommons.org/249273618> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/249273618> <http://www.w3.org/ns/prov#value> "For example, especially in the 1980s and early 90s, developing countries in Africa and Latin America were forced to liberalise their trade, open up their banking industry to foreign investors, and sell their state owned enterprises.".
+<http://webisa.webdatacommons.org/249273618> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://zcomm.org>.
+<http://webisa.webdatacommons.org/prov/2460207> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/305726840>.
+<http://webisa.webdatacommons.org/305726840> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/305726840> <http://www.w3.org/ns/prov#value> "That???s nearly a tenfold increase in government allocation,??? Tinio said.He said GASTPE, which has been around since the 1980s, is an early example of a public-private partnership scheme for providing basic social services.???The massive expansion of GASTPE indicates that government is heading towards a high school education system, including the new Senior High School component of K to 12, that".
+<http://webisa.webdatacommons.org/305726840> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://manilastandardtoday.com>.
+<http://webisa.webdatacommons.org/prov/2460207> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/282544665>.
+<http://webisa.webdatacommons.org/282544665> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/282544665> <http://www.w3.org/ns/prov#value> "As well as Israel, it would catch the allies in WW2, Hamas in the present conflict, Iran and Iraq in their big to do in the 1980s, the Russians and the Georgians last year and other examples over the last 150 years too numerous to mention".
+<http://webisa.webdatacommons.org/282544665> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://wordpress.com>.
+<http://webisa.webdatacommons.org/prov/2460207> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/72513371>.
+<http://webisa.webdatacommons.org/72513371> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/72513371> <http://www.w3.org/ns/prov#value> "Chyrysler, during the 1980s, was an example of a favorable Lynch turnaround.".
+<http://webisa.webdatacommons.org/72513371> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://investingcaffeine.com>.
+<http://webisa.webdatacommons.org/prov/2460207> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/405600061>.
+<http://webisa.webdatacommons.org/405600061> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/405600061> <http://www.w3.org/ns/prov#value> "The high-temperature superconducting materials discovered in the 1980s are an important example of an anti-ferromagnetic structure.".
+<http://webisa.webdatacommons.org/405600061> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://phys.org>.
+<http://webisa.webdatacommons.org/concept/_1980_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/1980>.
+<http://webisa.webdatacommons.org/concept/_example_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Example>.
+
+<http://webisa.webdatacommons.org/concept/early_1980_> <http://www.w3.org/2004/02/skos/core#broader> <http://webisa.webdatacommons.org/concept/_example_>  <http://webisa.webdatacommons.org/prov/2460208>.
+<http://webisa.webdatacommons.org/concept/early_1980_> <http://www.w3.org/2000/01/rdf-schema#label> "early 1980".
+<http://webisa.webdatacommons.org/concept/early_1980_> <http://webisa.webdatacommons.org/ontology#hasHead> "1980".
+<http://webisa.webdatacommons.org/concept/_example_> <http://www.w3.org/2000/01/rdf-schema#label> "example".
+<http://webisa.webdatacommons.org/concept/_example_> <http://webisa.webdatacommons.org/ontology#hasHead> "example".
+<http://webisa.webdatacommons.org/concept/early_1980_> <http://webisa.webdatacommons.org/ontology#hasPreModifier> "early".
+<http://webisa.webdatacommons.org/prov/2460208> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/prov/2460208> <http://webisa.webdatacommons.org/ontology#hasPidSpread> "3"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2460208> <http://webisa.webdatacommons.org/ontology#hasPldSpread> "6"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2460208> <http://webisa.webdatacommons.org/ontology#hasFrequency> "6"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2460208> <http://webisa.webdatacommons.org/ontology#hasConfidence> "0.2875177442828313"^^<http://www.w3.org/2001/XMLSchema#float>.
+<http://webisa.webdatacommons.org/prov/2460208> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p8a_activity>.
+<http://webisa.webdatacommons.org/prov/2460208> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p8c_activity>.
+<http://webisa.webdatacommons.org/prov/2460208> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p8b_activity>.
+<http://webisa.webdatacommons.org/prov/2460208> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/257677030>.
+<http://webisa.webdatacommons.org/257677030> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/257677030> <http://www.w3.org/ns/prov#value> "Her famous street scenes from the early 1980s are an example of this. ??? Garden of Learning??? makes room for what could be considered a small retrospective of Nho???s work, including a recent series of small-scale paintings inspired mostly by popular mythology.".
+<http://webisa.webdatacommons.org/257677030> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://gardenoflearning.info>.
+<http://webisa.webdatacommons.org/prov/2460208> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/406863663>.
+<http://webisa.webdatacommons.org/406863663> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/406863663> <http://www.w3.org/ns/prov#value> "The late 1970???s and early 1980???s are an example.".
+<http://webisa.webdatacommons.org/406863663> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://jonathanturley.org>.
+<http://webisa.webdatacommons.org/prov/2460208> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/125536279>.
+<http://webisa.webdatacommons.org/125536279> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/125536279> <http://www.w3.org/ns/prov#value> "Kodan (Tales of Foxes at Flower-Viewing Time), pub???lished in the early 1980s, is an example.".
+<http://webisa.webdatacommons.org/125536279> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://all-art.org>.
+<http://webisa.webdatacommons.org/prov/2460208> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/181043995>.
+<http://webisa.webdatacommons.org/181043995> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/181043995> <http://www.w3.org/ns/prov#value> "The anti-Communist crusade led by the Argentine military in Central America in the late 1970s and early 1980s is an example, in Armony's view, of that extraterritorial role.".
+<http://webisa.webdatacommons.org/181043995> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://h-net.org>.
+<http://webisa.webdatacommons.org/prov/2460208> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/245948028>.
+<http://webisa.webdatacommons.org/245948028> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/245948028> <http://www.w3.org/ns/prov#value> "The early 1980s are an example in my own lifetime: would Labour have had its anti-European phase, or the response to the Falklands have been the same, if the economic life of the country was not so hard at the time?".
+<http://webisa.webdatacommons.org/245948028> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://libdemvoice.org>.
+<http://webisa.webdatacommons.org/prov/2460208> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/323836926>.
+<http://webisa.webdatacommons.org/323836926> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/323836926> <http://www.w3.org/ns/prov#value> "I think I recall Tom Hazlett writing, in a review of Path to Power in Reason in the early 1980s, that the book was a great example of applied public choice. [Those weren't his exact words but that was the gist.]".
+<http://webisa.webdatacommons.org/323836926> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://econlib.org>.
+<http://webisa.webdatacommons.org/concept/_example_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Example>.
+
+<http://webisa.webdatacommons.org/concept/mid_1980_> <http://www.w3.org/2004/02/skos/core#broader> <http://webisa.webdatacommons.org/concept/_example_>  <http://webisa.webdatacommons.org/prov/2460210>.
+<http://webisa.webdatacommons.org/concept/mid_1980_> <http://www.w3.org/2000/01/rdf-schema#label> "mid 1980".
+<http://webisa.webdatacommons.org/concept/mid_1980_> <http://webisa.webdatacommons.org/ontology#hasHead> "1980".
+<http://webisa.webdatacommons.org/concept/_example_> <http://www.w3.org/2000/01/rdf-schema#label> "example".
+<http://webisa.webdatacommons.org/concept/_example_> <http://webisa.webdatacommons.org/ontology#hasHead> "example".
+<http://webisa.webdatacommons.org/concept/mid_1980_> <http://webisa.webdatacommons.org/ontology#hasPreModifier> "mid".
+<http://webisa.webdatacommons.org/prov/2460210> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/prov/2460210> <http://webisa.webdatacommons.org/ontology#hasPidSpread> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2460210> <http://webisa.webdatacommons.org/ontology#hasPldSpread> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2460210> <http://webisa.webdatacommons.org/ontology#hasFrequency> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2460210> <http://webisa.webdatacommons.org/ontology#hasConfidence> "0.3871778780091094"^^<http://www.w3.org/2001/XMLSchema#float>.
+<http://webisa.webdatacommons.org/prov/2460210> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p8a_activity>.
+<http://webisa.webdatacommons.org/prov/2460210> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p8b_activity>.
+<http://webisa.webdatacommons.org/prov/2460210> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/196049929>.
+<http://webisa.webdatacommons.org/196049929> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/196049929> <http://www.w3.org/ns/prov#value> "The U.S. macroeconomic experience of the early to mid- 1980s is an example of how".
+<http://webisa.webdatacommons.org/196049929> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://docstoc.com>.
+<http://webisa.webdatacommons.org/prov/2460210> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/90159489>.
+<http://webisa.webdatacommons.org/90159489> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/90159489> <http://www.w3.org/ns/prov#value> "Introduction of AMLCD for avionics in the mid 1980s, as feasible technology was an example how these technologies cold find application in the demanding environments as aircrafts and AFVs are.".
+<http://webisa.webdatacommons.org/90159489> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://issuu.com>.
+<http://webisa.webdatacommons.org/concept/_example_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Example>.
+
+<http://webisa.webdatacommons.org/concept/_1980_> <http://www.w3.org/2004/02/skos/core#broader> <http://webisa.webdatacommons.org/concept/good_example_>  <http://webisa.webdatacommons.org/prov/2460211>.
+<http://webisa.webdatacommons.org/concept/_1980_> <http://www.w3.org/2000/01/rdf-schema#label> "1980".
+<http://webisa.webdatacommons.org/concept/_1980_> <http://webisa.webdatacommons.org/ontology#hasHead> "1980".
+<http://webisa.webdatacommons.org/concept/good_example_> <http://www.w3.org/2000/01/rdf-schema#label> "good example".
+<http://webisa.webdatacommons.org/concept/good_example_> <http://webisa.webdatacommons.org/ontology#hasHead> "example".
+<http://webisa.webdatacommons.org/concept/good_example_> <http://webisa.webdatacommons.org/ontology#hasPreModifier> "good".
+<http://webisa.webdatacommons.org/prov/2460211> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/prov/2460211> <http://webisa.webdatacommons.org/ontology#hasPidSpread> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2460211> <http://webisa.webdatacommons.org/ontology#hasPldSpread> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2460211> <http://webisa.webdatacommons.org/ontology#hasFrequency> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2460211> <http://webisa.webdatacommons.org/ontology#hasConfidence> "0.12441110502696899"^^<http://www.w3.org/2001/XMLSchema#float>.
+<http://webisa.webdatacommons.org/prov/2460211> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p8a_activity>.
+<http://webisa.webdatacommons.org/prov/2460211> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p8c_activity>.
+<http://webisa.webdatacommons.org/prov/2460211> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/137258044>.
+<http://webisa.webdatacommons.org/137258044> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/137258044> <http://www.w3.org/ns/prov#value> "And the 1980s are a good example.".
+<http://webisa.webdatacommons.org/137258044> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://pbs.org>.
+<http://webisa.webdatacommons.org/prov/2460211> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/213514349>.
+<http://webisa.webdatacommons.org/213514349> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/213514349> <http://www.w3.org/ns/prov#value> "Spitalfields in the 1970???s and 1980???s is a good example.".
+<http://webisa.webdatacommons.org/213514349> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://blogspot.co.uk>.
+<http://webisa.webdatacommons.org/concept/_1980_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/1980>.
+
+<http://webisa.webdatacommons.org/concept/_1950_> <http://www.w3.org/2004/02/skos/core#broader> <http://webisa.webdatacommons.org/concept/_concern_>  <http://webisa.webdatacommons.org/prov/2525837>.
+<http://webisa.webdatacommons.org/concept/_1950_> <http://www.w3.org/2000/01/rdf-schema#label> "1950".
+<http://webisa.webdatacommons.org/concept/_1950_> <http://webisa.webdatacommons.org/ontology#hasHead> "1950".
+<http://webisa.webdatacommons.org/concept/_concern_> <http://www.w3.org/2000/01/rdf-schema#label> "concern".
+<http://webisa.webdatacommons.org/concept/_concern_> <http://webisa.webdatacommons.org/ontology#hasHead> "concern".
+<http://webisa.webdatacommons.org/prov/2525837> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/prov/2525837> <http://webisa.webdatacommons.org/ontology#hasPidSpread> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2525837> <http://webisa.webdatacommons.org/ontology#hasPldSpread> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2525837> <http://webisa.webdatacommons.org/ontology#hasFrequency> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2525837> <http://webisa.webdatacommons.org/ontology#hasConfidence> "0.11332787571730901"^^<http://www.w3.org/2001/XMLSchema#float>.
+<http://webisa.webdatacommons.org/prov/2525837> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p23d_activity>.
+<http://webisa.webdatacommons.org/prov/2525837> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p8b_activity>.
+<http://webisa.webdatacommons.org/prov/2525837> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/394415760>.
+<http://webisa.webdatacommons.org/394415760> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/394415760> <http://www.w3.org/ns/prov#value> "In the 1950s, there was a rising concern over the growing number of sheep and increased grazing pressure (Sveinsson 1958), resulting in large-scale revegetation to improve land for grazing and hay making (Run??lfsson 1988).".
+<http://webisa.webdatacommons.org/394415760> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://ecologyandsociety.org>.
+<http://webisa.webdatacommons.org/prov/2525837> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/81964133>.
+<http://webisa.webdatacommons.org/81964133> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/81964133> <http://www.w3.org/ns/prov#value> "After listing Dick novels published in 1960, 1968, and 1972, he then discusses their concerns as being particularly topical in the 1950s.".
+<http://webisa.webdatacommons.org/81964133> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://blogspot.com>.
+<http://webisa.webdatacommons.org/concept/_1950_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/1950>.
+<http://webisa.webdatacommons.org/concept/_concern_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Concern>.
+
+<http://webisa.webdatacommons.org/concept/_1980_> <http://www.w3.org/2004/02/skos/core#broader> <http://webisa.webdatacommons.org/concept/_scholar_>  <http://webisa.webdatacommons.org/prov/2538092>.
+<http://webisa.webdatacommons.org/concept/_1980_> <http://www.w3.org/2000/01/rdf-schema#label> "1980".
+<http://webisa.webdatacommons.org/concept/_1980_> <http://webisa.webdatacommons.org/ontology#hasHead> "1980".
+<http://webisa.webdatacommons.org/concept/_scholar_> <http://www.w3.org/2000/01/rdf-schema#label> "scholar".
+<http://webisa.webdatacommons.org/concept/_scholar_> <http://webisa.webdatacommons.org/ontology#hasHead> "scholar".
+<http://webisa.webdatacommons.org/prov/2538092> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/prov/2538092> <http://webisa.webdatacommons.org/ontology#hasPidSpread> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2538092> <http://webisa.webdatacommons.org/ontology#hasPldSpread> "4"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2538092> <http://webisa.webdatacommons.org/ontology#hasFrequency> "5"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2538092> <http://webisa.webdatacommons.org/ontology#hasConfidence> "0.09114643326584232"^^<http://www.w3.org/2001/XMLSchema#float>.
+<http://webisa.webdatacommons.org/prov/2538092> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p23d_activity>.
+<http://webisa.webdatacommons.org/prov/2538092> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p1_activity>.
+<http://webisa.webdatacommons.org/prov/2538092> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/210076455>.
+<http://webisa.webdatacommons.org/210076455> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/210076455> <http://www.w3.org/ns/prov#value> "Stern himself disproves this: ??Starting in the 1980s, major empirical studies by sociologist James Coleman and other scholars showed that urban Catholic schools were better than public schools at educating the poor, despite spending far less per student.".
+<http://webisa.webdatacommons.org/210076455> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://city-journal.org>.
+<http://webisa.webdatacommons.org/prov/2538092> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/347502409>.
+<http://webisa.webdatacommons.org/347502409> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/347502409> <http://www.w3.org/ns/prov#value> "Starting in the 1980s, major empirical studies by sociologist James Coleman and other scholars showed that urban Catholic schools were better than public schools at educating the poor, despite spending far less per student.".
+<http://webisa.webdatacommons.org/347502409> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://city-journal.org>.
+<http://webisa.webdatacommons.org/prov/2538092> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/320741327>.
+<http://webisa.webdatacommons.org/320741327> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/320741327> <http://www.w3.org/ns/prov#value> "Scholars from abroad were particularly drawn to the Austrian model in the 1970s and 1980s as they sought ways to give capitalism a more humane and egalitarian face.".
+<http://webisa.webdatacommons.org/320741327> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://h-net.org>.
+<http://webisa.webdatacommons.org/prov/2538092> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/347485910>.
+<http://webisa.webdatacommons.org/347485910> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/347485910> <http://www.w3.org/ns/prov#value> "Starting in the 1980s, major empirical studies by sociologist James Coleman and other scholars showed that urban Catholic schools were better than public schools at educating the poor, despite spending far less per student.".
+<http://webisa.webdatacommons.org/347485910> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://dogbrothers.com>.
+<http://webisa.webdatacommons.org/prov/2538092> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/347621239>.
+<http://webisa.webdatacommons.org/347621239> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/347621239> <http://www.w3.org/ns/prov#value> "Starting in the 1980s, major empirical studies by sociologist James Coleman and other scholars showed that urban Catholic schools were better than public schools at educating the poor, despite spending far less per student.".
+<http://webisa.webdatacommons.org/347621239> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://blogspot.com>.
+<http://webisa.webdatacommons.org/concept/_1980_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/1980>.
+<http://webisa.webdatacommons.org/concept/_scholar_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Scholarly_method>.
+
+<http://webisa.webdatacommons.org/concept/_1970_> <http://www.w3.org/2004/02/skos/core#broader> <http://webisa.webdatacommons.org/concept/_patient_>  <http://webisa.webdatacommons.org/prov/2539898>.
+<http://webisa.webdatacommons.org/concept/_1970_> <http://www.w3.org/2000/01/rdf-schema#label> "1970".
+<http://webisa.webdatacommons.org/concept/_1970_> <http://webisa.webdatacommons.org/ontology#hasHead> "1970".
+<http://webisa.webdatacommons.org/concept/_patient_> <http://www.w3.org/2000/01/rdf-schema#label> "patient".
+<http://webisa.webdatacommons.org/concept/_patient_> <http://webisa.webdatacommons.org/ontology#hasHead> "patient".
+<http://webisa.webdatacommons.org/prov/2539898> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/prov/2539898> <http://webisa.webdatacommons.org/ontology#hasPidSpread> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2539898> <http://webisa.webdatacommons.org/ontology#hasPldSpread> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2539898> <http://webisa.webdatacommons.org/ontology#hasFrequency> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2539898> <http://webisa.webdatacommons.org/ontology#hasConfidence> "0.1041780123855351"^^<http://www.w3.org/2001/XMLSchema#float>.
+<http://webisa.webdatacommons.org/prov/2539898> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p28b_activity>.
+<http://webisa.webdatacommons.org/prov/2539898> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p3a_activity>.
+<http://webisa.webdatacommons.org/prov/2539898> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/67358704>.
+<http://webisa.webdatacommons.org/67358704> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/67358704> <http://www.w3.org/ns/prov#value> "These patients are run to offer including chinese 1970s reducing in the uk.".
+<http://webisa.webdatacommons.org/67358704> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://worldofdiscovery.org>.
+<http://webisa.webdatacommons.org/prov/2539898> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/169530939>.
+<http://webisa.webdatacommons.org/169530939> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/169530939> <http://www.w3.org/ns/prov#value> "Medical therapy for coronary artery disease has also improved since the 1970s, and for many kinds of patients may be as successful as stenting or surgery.".
+<http://webisa.webdatacommons.org/169530939> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://wikipedia.org>.
+<http://webisa.webdatacommons.org/concept/_1970_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/1970>.
+<http://webisa.webdatacommons.org/concept/_patient_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Patient>.
+
+<http://webisa.webdatacommons.org/concept/_1960_> <http://www.w3.org/2004/02/skos/core#broader> <http://webisa.webdatacommons.org/concept/_western_>  <http://webisa.webdatacommons.org/prov/2656965>.
+<http://webisa.webdatacommons.org/concept/_1960_> <http://www.w3.org/2000/01/rdf-schema#label> "1960".
+<http://webisa.webdatacommons.org/concept/_1960_> <http://webisa.webdatacommons.org/ontology#hasHead> "1960".
+<http://webisa.webdatacommons.org/concept/_western_> <http://www.w3.org/2000/01/rdf-schema#label> "western".
+<http://webisa.webdatacommons.org/concept/_western_> <http://webisa.webdatacommons.org/ontology#hasHead> "western".
+<http://webisa.webdatacommons.org/prov/2656965> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/prov/2656965> <http://webisa.webdatacommons.org/ontology#hasPidSpread> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2656965> <http://webisa.webdatacommons.org/ontology#hasPldSpread> "3"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2656965> <http://webisa.webdatacommons.org/ontology#hasFrequency> "4"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2656965> <http://webisa.webdatacommons.org/ontology#hasConfidence> "0.11468645180859663"^^<http://www.w3.org/2001/XMLSchema#float>.
+<http://webisa.webdatacommons.org/prov/2656965> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p12a_activity>.
+<http://webisa.webdatacommons.org/prov/2656965> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p8a_activity>.
+<http://webisa.webdatacommons.org/prov/2656965> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/279051538>.
+<http://webisa.webdatacommons.org/279051538> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/279051538> <http://www.w3.org/ns/prov#value> "To have disregarded it, with so much else, in the and after the 1960s is an amazing and sad comment on contemporary, western, liturgical Christianity, and a failure to grasp the nature of Prayer in the Body of Christ.AddendumPerhaps an explanatory and practical comment on the modern use of the ???List??? here will help to make clearer the most important point that I believe I am making.".
+<http://webisa.webdatacommons.org/279051538> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://blogspot.com>.
+<http://webisa.webdatacommons.org/prov/2656965> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/57226215>.
+<http://webisa.webdatacommons.org/57226215> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/57226215> <http://www.w3.org/ns/prov#value> "From 1930 into the 1960s, one of the Norfolk and Western Railway's named luxury trains was the Pocahontas\" and ran between Norfolk, Virginia and Cincinnati, Ohio behind the Norfolk and Western Railway's famous J class 4-8-4 streamlined steam engines.".
+<http://webisa.webdatacommons.org/57226215> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://newworldencyclopedia.org>.
+<http://webisa.webdatacommons.org/prov/2656965> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/144411085>.
+<http://webisa.webdatacommons.org/144411085> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/144411085> <http://www.w3.org/ns/prov#value> "From 1930 into the 1960s, one of the Norfolk and Western Railway's named luxury trains was the Pocahontas\".".
+<http://webisa.webdatacommons.org/144411085> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://geni.com>.
+<http://webisa.webdatacommons.org/prov/2656965> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/57201559>.
+<http://webisa.webdatacommons.org/57201559> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/57201559> <http://www.w3.org/ns/prov#value> "From 1930 into the 1960s, one of the Norfolk and Western Railway's named luxury trains was the Pocahontas\" and ran between Norfolk, Virginia and Cincinnati, Ohio behind the Norfolk and Western Railway's famous J class 4-8-4 streamlined steam engines.".
+<http://webisa.webdatacommons.org/57201559> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://geni.com>.
+<http://webisa.webdatacommons.org/concept/_1960_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/1960>.
+<http://webisa.webdatacommons.org/concept/_western_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Western>.
+
+<http://webisa.webdatacommons.org/concept/_1950_> <http://www.w3.org/2004/02/skos/core#broader> <http://webisa.webdatacommons.org/concept/_fashion_>  <http://webisa.webdatacommons.org/prov/2686984>.
+<http://webisa.webdatacommons.org/concept/_1950_> <http://www.w3.org/2000/01/rdf-schema#label> "1950".
+<http://webisa.webdatacommons.org/concept/_1950_> <http://webisa.webdatacommons.org/ontology#hasHead> "1950".
+<http://webisa.webdatacommons.org/concept/_fashion_> <http://www.w3.org/2000/01/rdf-schema#label> "fashion".
+<http://webisa.webdatacommons.org/concept/_fashion_> <http://webisa.webdatacommons.org/ontology#hasHead> "fashion".
+<http://webisa.webdatacommons.org/prov/2686984> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/prov/2686984> <http://webisa.webdatacommons.org/ontology#hasPidSpread> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2686984> <http://webisa.webdatacommons.org/ontology#hasPldSpread> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2686984> <http://webisa.webdatacommons.org/ontology#hasFrequency> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2686984> <http://webisa.webdatacommons.org/ontology#hasConfidence> "0.09588818592862049"^^<http://www.w3.org/2001/XMLSchema#float>.
+<http://webisa.webdatacommons.org/prov/2686984> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p23a_activity>.
+<http://webisa.webdatacommons.org/prov/2686984> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p43_activity>.
+<http://webisa.webdatacommons.org/prov/2686984> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/300080132>.
+<http://webisa.webdatacommons.org/300080132> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/300080132> <http://www.w3.org/ns/prov#value> "I???ll tell you one thing about South African whites ??? they???re invariably very polite and well-mannered in a 1950???s sort of fashion.".
+<http://webisa.webdatacommons.org/300080132> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://wordpress.com>.
+<http://webisa.webdatacommons.org/prov/2686984> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/433285029>.
+<http://webisa.webdatacommons.org/433285029> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/433285029> <http://www.w3.org/ns/prov#value> "He captured the fashion, social, political and cultural changes influencing the lives of women and fashion mainly in the 1950???s and 60???s.".
+<http://webisa.webdatacommons.org/433285029> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://sirensofchrome.com>.
+<http://webisa.webdatacommons.org/concept/_1950_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/1950>.
+<http://webisa.webdatacommons.org/concept/_fashion_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Fashion>.
+
+<http://webisa.webdatacommons.org/concept/_1960_> <http://www.w3.org/2004/02/skos/core#broader> <http://webisa.webdatacommons.org/concept/_tragedy_>  <http://webisa.webdatacommons.org/prov/2701219>.
+<http://webisa.webdatacommons.org/concept/_1960_> <http://www.w3.org/2000/01/rdf-schema#label> "1960".
+<http://webisa.webdatacommons.org/concept/_1960_> <http://webisa.webdatacommons.org/ontology#hasHead> "1960".
+<http://webisa.webdatacommons.org/concept/_tragedy_> <http://www.w3.org/2000/01/rdf-schema#label> "tragedy".
+<http://webisa.webdatacommons.org/concept/_tragedy_> <http://webisa.webdatacommons.org/ontology#hasHead> "tragedy".
+<http://webisa.webdatacommons.org/prov/2701219> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/prov/2701219> <http://webisa.webdatacommons.org/ontology#hasPidSpread> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2701219> <http://webisa.webdatacommons.org/ontology#hasPldSpread> "3"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2701219> <http://webisa.webdatacommons.org/ontology#hasFrequency> "3"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2701219> <http://webisa.webdatacommons.org/ontology#hasConfidence> "0.1414582215727429"^^<http://www.w3.org/2001/XMLSchema#float>.
+<http://webisa.webdatacommons.org/prov/2701219> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p8d_activity>.
+<http://webisa.webdatacommons.org/prov/2701219> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p8b_activity>.
+<http://webisa.webdatacommons.org/prov/2701219> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/62448321>.
+<http://webisa.webdatacommons.org/62448321> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/62448321> <http://www.w3.org/ns/prov#value> "Because while for some, the 1960s were a tragedy and the 1970s a haze of defeat and national weakness, for others the era as a whole provided new gains and new hopes.".
+<http://webisa.webdatacommons.org/62448321> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://s-usih.org>.
+<http://webisa.webdatacommons.org/prov/2701219> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/373853276>.
+<http://webisa.webdatacommons.org/373853276> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/373853276> <http://www.w3.org/ns/prov#value> "Overall the 1960s was a very eventful decade... full of romance, tragedy, grand achievements, violence and non-violent protests.".
+<http://webisa.webdatacommons.org/373853276> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://goodreads.com>.
+<http://webisa.webdatacommons.org/prov/2701219> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/79556071>.
+<http://webisa.webdatacommons.org/79556071> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/79556071> <http://www.w3.org/ns/prov#value> "1960s and 70s of South Korea was a tragedy.".
+<http://webisa.webdatacommons.org/79556071> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://inmediahk.net>.
+<http://webisa.webdatacommons.org/concept/_1960_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/1960>.
+<http://webisa.webdatacommons.org/concept/_tragedy_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Tragedy>.
+
+<http://webisa.webdatacommons.org/concept/_1970_> <http://www.w3.org/2004/02/skos/core#broader> <http://webisa.webdatacommons.org/concept/_culture_>  <http://webisa.webdatacommons.org/prov/2747381>.
+<http://webisa.webdatacommons.org/concept/_1970_> <http://www.w3.org/2000/01/rdf-schema#label> "1970".
+<http://webisa.webdatacommons.org/concept/_1970_> <http://webisa.webdatacommons.org/ontology#hasHead> "1970".
+<http://webisa.webdatacommons.org/concept/_culture_> <http://www.w3.org/2000/01/rdf-schema#label> "culture".
+<http://webisa.webdatacommons.org/concept/_culture_> <http://webisa.webdatacommons.org/ontology#hasHead> "culture".
+<http://webisa.webdatacommons.org/prov/2747381> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/prov/2747381> <http://webisa.webdatacommons.org/ontology#hasPidSpread> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2747381> <http://webisa.webdatacommons.org/ontology#hasPldSpread> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2747381> <http://webisa.webdatacommons.org/ontology#hasFrequency> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2747381> <http://webisa.webdatacommons.org/ontology#hasConfidence> "0.11949544332858751"^^<http://www.w3.org/2001/XMLSchema#float>.
+<http://webisa.webdatacommons.org/prov/2747381> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p8d_activity>.
+<http://webisa.webdatacommons.org/prov/2747381> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p8b_activity>.
+<http://webisa.webdatacommons.org/prov/2747381> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/195485394>.
+<http://webisa.webdatacommons.org/195485394> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/195485394> <http://www.w3.org/ns/prov#value> "The 1970s were a particularly tumultuous period in American politics and culture.".
+<http://webisa.webdatacommons.org/195485394> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://washington.edu>.
+<http://webisa.webdatacommons.org/prov/2747381> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/332307773>.
+<http://webisa.webdatacommons.org/332307773> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/332307773> <http://www.w3.org/ns/prov#value> "urope or Asia and find other people your age who ingested and bought the same things and listened to the same music and watched the same movies and it was already clear probably in the 1960s and 1970s that there was a global culture and this culture, like modern automobiles, was not imported from a place but from all places, made and assembled in three dozen countries, its industrial DNA far beyon".
+<http://webisa.webdatacommons.org/332307773> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://wordpress.com>.
+<http://webisa.webdatacommons.org/concept/_1970_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/1970>.
+<http://webisa.webdatacommons.org/concept/_culture_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Culture>.
+
+<http://webisa.webdatacommons.org/concept/_1970_> <http://www.w3.org/2004/02/skos/core#broader> <http://webisa.webdatacommons.org/concept/pop_culture_>  <http://webisa.webdatacommons.org/prov/2747382>.
+<http://webisa.webdatacommons.org/concept/_1970_> <http://www.w3.org/2000/01/rdf-schema#label> "1970".
+<http://webisa.webdatacommons.org/concept/_1970_> <http://webisa.webdatacommons.org/ontology#hasHead> "1970".
+<http://webisa.webdatacommons.org/concept/pop_culture_> <http://www.w3.org/2000/01/rdf-schema#label> "pop culture".
+<http://webisa.webdatacommons.org/concept/pop_culture_> <http://webisa.webdatacommons.org/ontology#hasHead> "culture".
+<http://webisa.webdatacommons.org/concept/pop_culture_> <http://webisa.webdatacommons.org/ontology#hasPreModifier> "pop".
+<http://webisa.webdatacommons.org/prov/2747382> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/prov/2747382> <http://webisa.webdatacommons.org/ontology#hasPidSpread> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2747382> <http://webisa.webdatacommons.org/ontology#hasPldSpread> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2747382> <http://webisa.webdatacommons.org/ontology#hasFrequency> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2747382> <http://webisa.webdatacommons.org/ontology#hasConfidence> "0.14434195215108211"^^<http://www.w3.org/2001/XMLSchema#float>.
+<http://webisa.webdatacommons.org/prov/2747382> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p23d_activity>.
+<http://webisa.webdatacommons.org/prov/2747382> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p2_activity>.
+<http://webisa.webdatacommons.org/prov/2747382> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/344762346>.
+<http://webisa.webdatacommons.org/344762346> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/344762346> <http://www.w3.org/ns/prov#value> "By my rules it is fine.Rex loves his pop culture, especially from the 1970s and '80s, and if I were editing puzzles specifically for him, I would include more of it.".
+<http://webisa.webdatacommons.org/344762346> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://blogspot.com>.
+<http://webisa.webdatacommons.org/prov/2747382> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/170461582>.
+<http://webisa.webdatacommons.org/170461582> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/170461582> <http://www.w3.org/ns/prov#value> "She draws from art history and pop culture, particularly from the 1970s.".
+<http://webisa.webdatacommons.org/170461582> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://wikipedia.org>.
+<http://webisa.webdatacommons.org/concept/_1970_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/1970>.
+<http://webisa.webdatacommons.org/concept/pop_culture_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Popular_culture>.
+
+<http://webisa.webdatacommons.org/concept/_1990_> <http://www.w3.org/2004/02/skos/core#broader> <http://webisa.webdatacommons.org/concept/_problem_>  <http://webisa.webdatacommons.org/prov/2791984>.
+<http://webisa.webdatacommons.org/concept/_1990_> <http://www.w3.org/2000/01/rdf-schema#label> "1990".
+<http://webisa.webdatacommons.org/concept/_1990_> <http://webisa.webdatacommons.org/ontology#hasHead> "1990".
+<http://webisa.webdatacommons.org/concept/_problem_> <http://www.w3.org/2000/01/rdf-schema#label> "problem".
+<http://webisa.webdatacommons.org/concept/_problem_> <http://webisa.webdatacommons.org/ontology#hasHead> "problem".
+<http://webisa.webdatacommons.org/prov/2791984> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/prov/2791984> <http://webisa.webdatacommons.org/ontology#hasPidSpread> "3"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2791984> <http://webisa.webdatacommons.org/ontology#hasPldSpread> "4"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2791984> <http://webisa.webdatacommons.org/ontology#hasFrequency> "4"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2791984> <http://webisa.webdatacommons.org/ontology#hasConfidence> "0.19321827186699342"^^<http://www.w3.org/2001/XMLSchema#float>.
+<http://webisa.webdatacommons.org/prov/2791984> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p21c_activity>.
+<http://webisa.webdatacommons.org/prov/2791984> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p8a_activity>.
+<http://webisa.webdatacommons.org/prov/2791984> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p8b_activity>.
+<http://webisa.webdatacommons.org/prov/2791984> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/118436689>.
+<http://webisa.webdatacommons.org/118436689> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/118436689> <http://www.w3.org/ns/prov#value> "The leaky homes problem, which became apparent in the 1990s, was a problem long before it was addressed.".
+<http://webisa.webdatacommons.org/118436689> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://www.parliament.nz>.
+<http://webisa.webdatacommons.org/prov/2791984> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/281834484>.
+<http://webisa.webdatacommons.org/281834484> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/281834484> <http://www.w3.org/ns/prov#value> "So many people have used these drugs and they have been so heavily investigated in the early 1980s and 1990s, that if there is a problem, it is probably very rare, said Alan Daugherty, PhD, director of cardiovascular research at the University of Kentucky.".
+<http://webisa.webdatacommons.org/281834484> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://about.com>.
+<http://webisa.webdatacommons.org/prov/2791984> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/83020180>.
+<http://webisa.webdatacommons.org/83020180> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/83020180> <http://www.w3.org/ns/prov#value> "During the 1990s, there was a problem, particularly in Belfast city centre, with street traders setting up stalls.".
+<http://webisa.webdatacommons.org/83020180> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://niassembly.gov.uk>.
+<http://webisa.webdatacommons.org/prov/2791984> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/110886590>.
+<http://webisa.webdatacommons.org/110886590> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/110886590> <http://www.w3.org/ns/prov#value> "The site???s most pressing problem is that during the 1990s, even as civic association members pushed for a preservation hearing, thieves made off with the school???s original copper roof.".
+<http://webisa.webdatacommons.org/110886590> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://thecommondenominator.com>.
+<http://webisa.webdatacommons.org/concept/_1990_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/1990>.
+<http://webisa.webdatacommons.org/concept/_problem_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Problem_solving>.
+
+<http://webisa.webdatacommons.org/concept/early_1990_> <http://www.w3.org/2004/02/skos/core#broader> <http://webisa.webdatacommons.org/concept/_problem_>  <http://webisa.webdatacommons.org/prov/2791985>.
+<http://webisa.webdatacommons.org/concept/early_1990_> <http://www.w3.org/2000/01/rdf-schema#label> "early 1990".
+<http://webisa.webdatacommons.org/concept/early_1990_> <http://webisa.webdatacommons.org/ontology#hasHead> "1990".
+<http://webisa.webdatacommons.org/concept/_problem_> <http://www.w3.org/2000/01/rdf-schema#label> "problem".
+<http://webisa.webdatacommons.org/concept/_problem_> <http://webisa.webdatacommons.org/ontology#hasHead> "problem".
+<http://webisa.webdatacommons.org/concept/early_1990_> <http://webisa.webdatacommons.org/ontology#hasPreModifier> "early".
+<http://webisa.webdatacommons.org/prov/2791985> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/prov/2791985> <http://webisa.webdatacommons.org/ontology#hasPidSpread> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2791985> <http://webisa.webdatacommons.org/ontology#hasPldSpread> "3"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2791985> <http://webisa.webdatacommons.org/ontology#hasFrequency> "3"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2791985> <http://webisa.webdatacommons.org/ontology#hasConfidence> "0.321152576599201"^^<http://www.w3.org/2001/XMLSchema#float>.
+<http://webisa.webdatacommons.org/prov/2791985> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p2_activity>.
+<http://webisa.webdatacommons.org/prov/2791985> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p8b_activity>.
+<http://webisa.webdatacommons.org/prov/2791985> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/215153401>.
+<http://webisa.webdatacommons.org/215153401> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/215153401> <http://www.w3.org/ns/prov#value> "The problem has been especially severe since the early 1990???s, when the forces of globalization became rampant.".
+<http://webisa.webdatacommons.org/215153401> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://jfjfp.com>.
+<http://webisa.webdatacommons.org/prov/2791985> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/196658090>.
+<http://webisa.webdatacommons.org/196658090> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/196658090> <http://www.w3.org/ns/prov#value> "In the early 1990s, attrition was a problem for both the University and the Department of".
+<http://webisa.webdatacommons.org/196658090> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://docstoc.com>.
+<http://webisa.webdatacommons.org/prov/2791985> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/353108277>.
+<http://webisa.webdatacommons.org/353108277> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/353108277> <http://www.w3.org/ns/prov#value> "In the early 1990s, Howard County police recognized that there was a problem in our community.".
+<http://webisa.webdatacommons.org/353108277> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://howardcountymd.gov>.
+<http://webisa.webdatacommons.org/concept/_problem_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Problem_solving>.
+
+<http://webisa.webdatacommons.org/concept/_1990_> <http://www.w3.org/2004/02/skos/core#broader> <http://webisa.webdatacommons.org/concept/_article_>  <http://webisa.webdatacommons.org/prov/2799311>.
+<http://webisa.webdatacommons.org/concept/_1990_> <http://www.w3.org/2000/01/rdf-schema#label> "1990".
+<http://webisa.webdatacommons.org/concept/_1990_> <http://webisa.webdatacommons.org/ontology#hasHead> "1990".
+<http://webisa.webdatacommons.org/concept/_article_> <http://www.w3.org/2000/01/rdf-schema#label> "article".
+<http://webisa.webdatacommons.org/concept/_article_> <http://webisa.webdatacommons.org/ontology#hasHead> "article".
+<http://webisa.webdatacommons.org/prov/2799311> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/prov/2799311> <http://webisa.webdatacommons.org/ontology#hasPidSpread> "3"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2799311> <http://webisa.webdatacommons.org/ontology#hasPldSpread> "3"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2799311> <http://webisa.webdatacommons.org/ontology#hasFrequency> "3"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2799311> <http://webisa.webdatacommons.org/ontology#hasConfidence> "0.16881743654624717"^^<http://www.w3.org/2001/XMLSchema#float>.
+<http://webisa.webdatacommons.org/prov/2799311> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p1_activity>.
+<http://webisa.webdatacommons.org/prov/2799311> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p21d_activity>.
+<http://webisa.webdatacommons.org/prov/2799311> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p23b_activity>.
+<http://webisa.webdatacommons.org/prov/2799311> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/159069485>.
+<http://webisa.webdatacommons.org/159069485> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/159069485> <http://www.w3.org/ns/prov#value> "The data cited in the article is mostly from the 1990???s and with some data in the article going back as far as 1975.".
+<http://webisa.webdatacommons.org/159069485> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://blogspot.com>.
+<http://webisa.webdatacommons.org/prov/2799311> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/180518726>.
+<http://webisa.webdatacommons.org/180518726> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/180518726> <http://www.w3.org/ns/prov#value> "Throughout the 1990s, Apple designed various custom chipsets for Macs and other devices, as noted in the article How Apple??s PA Semi Acquisition Fits Into Its Chip History.".
+<http://webisa.webdatacommons.org/180518726> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://appleinsider.com>.
+<http://webisa.webdatacommons.org/prov/2799311> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/245762327>.
+<http://webisa.webdatacommons.org/245762327> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/245762327> <http://www.w3.org/ns/prov#value> "I just read Theodore Dalrymple???s ???Life at the Bottom??? again, and although most of the articles are from the 1990s, they are perfectly up-to-date except for the names of a few sports and pop-music figures.".
+<http://webisa.webdatacommons.org/245762327> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://freerepublic.com>.
+<http://webisa.webdatacommons.org/concept/_1990_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/1990>.
+<http://webisa.webdatacommons.org/concept/_article_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Article>.
+
+<http://webisa.webdatacommons.org/concept/early_1990_> <http://www.w3.org/2004/02/skos/core#broader> <http://webisa.webdatacommons.org/concept/_process_>  <http://webisa.webdatacommons.org/prov/2800888>.
+<http://webisa.webdatacommons.org/concept/early_1990_> <http://www.w3.org/2000/01/rdf-schema#label> "early 1990".
+<http://webisa.webdatacommons.org/concept/early_1990_> <http://webisa.webdatacommons.org/ontology#hasHead> "1990".
+<http://webisa.webdatacommons.org/concept/_process_> <http://www.w3.org/2000/01/rdf-schema#label> "process".
+<http://webisa.webdatacommons.org/concept/_process_> <http://webisa.webdatacommons.org/ontology#hasHead> "process".
+<http://webisa.webdatacommons.org/concept/early_1990_> <http://webisa.webdatacommons.org/ontology#hasPreModifier> "early".
+<http://webisa.webdatacommons.org/prov/2800888> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/prov/2800888> <http://webisa.webdatacommons.org/ontology#hasPidSpread> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2800888> <http://webisa.webdatacommons.org/ontology#hasPldSpread> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2800888> <http://webisa.webdatacommons.org/ontology#hasFrequency> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2800888> <http://webisa.webdatacommons.org/ontology#hasConfidence> "0.39252064801603065"^^<http://www.w3.org/2001/XMLSchema#float>.
+<http://webisa.webdatacommons.org/prov/2800888> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p8a_activity>.
+<http://webisa.webdatacommons.org/prov/2800888> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p8b_activity>.
+<http://webisa.webdatacommons.org/prov/2800888> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/77990324>.
+<http://webisa.webdatacommons.org/77990324> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/77990324> <http://www.w3.org/ns/prov#value> "Forest certification, developed in the early 1990s, is a process in which independent assessors grant use of the certification label to producers who meet certain environmental and social criteria set for their forest products.".
+<http://webisa.webdatacommons.org/77990324> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://ecologyandsociety.org>.
+<http://webisa.webdatacommons.org/prov/2800888> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/11389989>.
+<http://webisa.webdatacommons.org/11389989> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/11389989> <http://www.w3.org/ns/prov#value> "His wife, Anu, who left the company in the early 1990s, was an expert in quality and processes.".
+<http://webisa.webdatacommons.org/11389989> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://teck.in>.
+<http://webisa.webdatacommons.org/concept/_process_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Process>.
+
+<http://webisa.webdatacommons.org/concept/_1960_> <http://www.w3.org/2004/02/skos/core#broader> <http://webisa.webdatacommons.org/concept/_picture_>  <http://webisa.webdatacommons.org/prov/2838174>.
+<http://webisa.webdatacommons.org/concept/_1960_> <http://www.w3.org/2000/01/rdf-schema#label> "1960".
+<http://webisa.webdatacommons.org/concept/_1960_> <http://webisa.webdatacommons.org/ontology#hasHead> "1960".
+<http://webisa.webdatacommons.org/concept/_picture_> <http://www.w3.org/2000/01/rdf-schema#label> "picture".
+<http://webisa.webdatacommons.org/concept/_picture_> <http://webisa.webdatacommons.org/ontology#hasHead> "picture".
+<http://webisa.webdatacommons.org/prov/2838174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/prov/2838174> <http://webisa.webdatacommons.org/ontology#hasPidSpread> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2838174> <http://webisa.webdatacommons.org/ontology#hasPldSpread> "3"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2838174> <http://webisa.webdatacommons.org/ontology#hasFrequency> "3"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2838174> <http://webisa.webdatacommons.org/ontology#hasConfidence> "0.0930775716741742"^^<http://www.w3.org/2001/XMLSchema#float>.
+<http://webisa.webdatacommons.org/prov/2838174> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p23a_activity>.
+<http://webisa.webdatacommons.org/prov/2838174> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p23b_activity>.
+<http://webisa.webdatacommons.org/prov/2838174> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/273861076>.
+<http://webisa.webdatacommons.org/273861076> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/273861076> <http://www.w3.org/ns/prov#value> "Mr. Cardiff directed 15 pictures, mainly in the 1960s and ???70s, including his adaptation of D. H. Lawrence???s ???Sons and Lovers,??? for which he was won a Golden Globe Award and was nominated for an Academy Award.".
+<http://webisa.webdatacommons.org/273861076> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://wordpress.com>.
+<http://webisa.webdatacommons.org/prov/2838174> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/16199142>.
+<http://webisa.webdatacommons.org/16199142> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/16199142> <http://www.w3.org/ns/prov#value> "There is a Tumblr blog entitled ???My Parents Were Awesome???, which features pictures, mostly from the 1960s and 1970s, of the writers??? parents looking young and cool.".
+<http://webisa.webdatacommons.org/16199142> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://moreintelligentlife.com>.
+<http://webisa.webdatacommons.org/prov/2838174> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/15787471>.
+<http://webisa.webdatacommons.org/15787471> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/15787471> <http://www.w3.org/ns/prov#value> "There is a Tumblr blog entitled ???My Parents Were Awesome???, which features pictures, mostly from the 1960s and 1970s, of the writers??? parents looking young and cool.".
+<http://webisa.webdatacommons.org/15787471> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://moreintelligentlife.co.uk>.
+<http://webisa.webdatacommons.org/concept/_1960_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/1960>.
+<http://webisa.webdatacommons.org/concept/_picture_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Image>.
+
+<http://webisa.webdatacommons.org/concept/_1984_> <http://www.w3.org/2004/02/skos/core#broader> <http://webisa.webdatacommons.org/concept/_warning_>  <http://webisa.webdatacommons.org/prov/2879967>.
+<http://webisa.webdatacommons.org/concept/_1984_> <http://www.w3.org/2000/01/rdf-schema#label> "1984".
+<http://webisa.webdatacommons.org/concept/_1984_> <http://webisa.webdatacommons.org/ontology#hasHead> "1984".
+<http://webisa.webdatacommons.org/concept/_warning_> <http://www.w3.org/2000/01/rdf-schema#label> "warning".
+<http://webisa.webdatacommons.org/concept/_warning_> <http://webisa.webdatacommons.org/ontology#hasHead> "warning".
+<http://webisa.webdatacommons.org/prov/2879967> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/prov/2879967> <http://webisa.webdatacommons.org/ontology#hasPidSpread> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2879967> <http://webisa.webdatacommons.org/ontology#hasPldSpread> "6"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2879967> <http://webisa.webdatacommons.org/ontology#hasFrequency> "9"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2879967> <http://webisa.webdatacommons.org/ontology#hasConfidence> "0.19639988177877493"^^<http://www.w3.org/2001/XMLSchema#float>.
+<http://webisa.webdatacommons.org/prov/2879967> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p8a_activity>.
+<http://webisa.webdatacommons.org/prov/2879967> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p8b_activity>.
+<http://webisa.webdatacommons.org/prov/2879967> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/370861505>.
+<http://webisa.webdatacommons.org/370861505> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/370861505> <http://www.w3.org/ns/prov#value> "'1984 was a warning, not an instruction manual.' - Unknown".
+<http://webisa.webdatacommons.org/370861505> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://advrider.com>.
+<http://webisa.webdatacommons.org/prov/2879967> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/250521317>.
+<http://webisa.webdatacommons.org/250521317> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/250521317> <http://www.w3.org/ns/prov#value> "???1984 was a warning, not a blueprint??? ??? the Liberal Democrat Freedom Bill | THE PEOPLE'S REPUBLIC OF MORTIMER".
+<http://webisa.webdatacommons.org/250521317> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://wordpress.com>.
+<http://webisa.webdatacommons.org/prov/2879967> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/448750376>.
+<http://webisa.webdatacommons.org/448750376> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/448750376> <http://www.w3.org/ns/prov#value> "???1984 is a warning, not an instruction manual,??? Andrea O'Neill, an organizer of the Washington, D.C. branch of the protest, said in a press release. ???As we find out about more unconstitutional programs every week, it is clear that the NSA???s domestic spying has gone too far and must be stopped before it???s too late.???".
+<http://webisa.webdatacommons.org/448750376> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://dailydot.com>.
+<http://webisa.webdatacommons.org/prov/2879967> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/79862665>.
+<http://webisa.webdatacommons.org/79862665> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/79862665> <http://www.w3.org/ns/prov#value> "Reply gator69 says: January 10, 2013 at 9:18 pm As a good friend of mine once said, ???1984 was a warning, and not a f*cking blueprint!???".
+<http://webisa.webdatacommons.org/79862665> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://wordpress.com>.
+<http://webisa.webdatacommons.org/prov/2879967> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/22393136>.
+<http://webisa.webdatacommons.org/22393136> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/22393136> <http://www.w3.org/ns/prov#value> "The last hurdle is taking away people's ability to think for themselves.1984 was a warning, but a lot of governments seem to be using it as an instruction manual.".
+<http://webisa.webdatacommons.org/22393136> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://slashdot.org>.
+<http://webisa.webdatacommons.org/prov/2879967> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/105969299>.
+<http://webisa.webdatacommons.org/105969299> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/105969299> <http://www.w3.org/ns/prov#value> "How about:1984 was a WARNING, not a MANUAL!Censorship is double plus UNGOODMohammed ate my Hamster...My Saviour is a Bacon sarnie - Ketchup be upon him.Piglet is innocent - Justice Now!Blasphemy is my only real pleasureOffensiveness is my only real talentYour freedom of expression does not resemble our freedom of expression.Logic dictates there is no point in blashemyGod is a vicious tyrantVikings".
+<http://webisa.webdatacommons.org/105969299> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://blogspot.com>.
+<http://webisa.webdatacommons.org/prov/2879967> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/45504115>.
+<http://webisa.webdatacommons.org/45504115> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/45504115> <http://www.w3.org/ns/prov#value> "(1984 was a WARNING, not an Instruction Manual.)".
+<http://webisa.webdatacommons.org/45504115> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://freerepublic.com>.
+<http://webisa.webdatacommons.org/prov/2879967> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/139692410>.
+<http://webisa.webdatacommons.org/139692410> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/139692410> <http://www.w3.org/ns/prov#value> "As many people have said,1984 was a warning, not a blueprint.".
+<http://webisa.webdatacommons.org/139692410> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://blogspot.com>.
+<http://webisa.webdatacommons.org/prov/2879967> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/89861787>.
+<http://webisa.webdatacommons.org/89861787> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/89861787> <http://www.w3.org/ns/prov#value> "???1984 was a warning, not a blueprint??? ??? the Liberal Democrat Freedom Bill 26".
+<http://webisa.webdatacommons.org/89861787> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://wordpress.com>.
+<http://webisa.webdatacommons.org/concept/_1984_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/1984>.
+<http://webisa.webdatacommons.org/concept/_warning_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Warning>.
+
+<http://webisa.webdatacommons.org/concept/_1950_> <http://www.w3.org/2004/02/skos/core#broader> <http://webisa.webdatacommons.org/concept/_species_>  <http://webisa.webdatacommons.org/prov/2891484>.
+<http://webisa.webdatacommons.org/concept/_1950_> <http://www.w3.org/2000/01/rdf-schema#label> "1950".
+<http://webisa.webdatacommons.org/concept/_1950_> <http://webisa.webdatacommons.org/ontology#hasHead> "1950".
+<http://webisa.webdatacommons.org/concept/_species_> <http://www.w3.org/2000/01/rdf-schema#label> "species".
+<http://webisa.webdatacommons.org/concept/_species_> <http://webisa.webdatacommons.org/ontology#hasHead> "species".
+<http://webisa.webdatacommons.org/prov/2891484> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/prov/2891484> <http://webisa.webdatacommons.org/ontology#hasPidSpread> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2891484> <http://webisa.webdatacommons.org/ontology#hasPldSpread> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2891484> <http://webisa.webdatacommons.org/ontology#hasFrequency> "2"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<http://webisa.webdatacommons.org/prov/2891484> <http://webisa.webdatacommons.org/ontology#hasConfidence> "0.12075097533628062"^^<http://www.w3.org/2001/XMLSchema#float>.
+<http://webisa.webdatacommons.org/prov/2891484> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p8d_activity>.
+<http://webisa.webdatacommons.org/prov/2891484> <http://www.w3.org/ns/prov#wasGeneratedBy> <http://webisa.webdatacommons.org/extract_p8a_activity>.
+<http://webisa.webdatacommons.org/prov/2891484> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/435860899>.
+<http://webisa.webdatacommons.org/435860899> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/435860899> <http://www.w3.org/ns/prov#value> "The greater bilby (Macrotis lagotis), often referred to simply as the bilby since the lesser bilby (Macrotis leucura) became extinct in the 1950s, is an Australian species of nocturnal omnivorous animal in the Peramelemorphia order.".
+<http://webisa.webdatacommons.org/435860899> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://wikipedia.org>.
+<http://webisa.webdatacommons.org/prov/2891484> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://webisa.webdatacommons.org/285982391>.
+<http://webisa.webdatacommons.org/285982391> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity>.
+<http://webisa.webdatacommons.org/285982391> <http://www.w3.org/ns/prov#value> "He argued that the unruly, iconoclastic thinkers that had dominated the New York intellectual scene well into the 1950s were a disappearing species.".
+<http://webisa.webdatacommons.org/285982391> <http://www.w3.org/ns/prov#wasQuotedFrom> <http://huffingtonpost.com>.
+<http://webisa.webdatacommons.org/concept/_1950_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/1950>.
+<http://webisa.webdatacommons.org/concept/_species_> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Species>.
+
