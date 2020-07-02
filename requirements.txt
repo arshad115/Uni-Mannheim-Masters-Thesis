@@ -1,0 +1,99 @@
+attrdict==2.0.1
+attrs==19.3.0
+blinker==1.4
+boto==2.49.0
+boto3 @ file:///home/conda/feedstock_root/build_artifacts/boto3_1593218554895/work
+botocore @ file:///home/conda/feedstock_root/build_artifacts/botocore_1593215929668/work
+bravado @ file:///home/conda/feedstock_root/build_artifacts/bravado_1590418530012/work
+bravado-core==5.17.0
+brotlipy==0.7.0
+bz2file==0.98
+cachetools @ file:///home/conda/feedstock_root/build_artifacts/cachetools_1593420445823/work
+certifi==2020.6.20
+cffi==1.14.0
+chardet==3.0.4
+click==7.1.2
+cryptography==2.9.2
+cycler==0.10.0
+docutils==0.15.2
+future==0.18.2
+gensim @ file:///D:/bld/gensim_1589441310359/work
+gitdb @ file:///home/conda/feedstock_root/build_artifacts/gitdb_1588651542737/work
+GitPython @ file:///home/conda/feedstock_root/build_artifacts/gitpython_1590897464411/work
+google-api-core==1.17.0
+google-auth @ file:///home/conda/feedstock_root/build_artifacts/google-auth_1592232565626/work
+google-cloud-core==1.3.0
+google-cloud-storage @ file:///home/conda/feedstock_root/build_artifacts/google-cloud-storage_1588781939053/work
+google-resumable-media @ file:///home/conda/feedstock_root/build_artifacts/google-resumable-media_1591635520808/work
+googleapis-common-protos==1.51.0
+html5lib @ file:///home/conda/feedstock_root/build_artifacts/html5lib_1592930327044/work
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1593328102638/work
+imbalanced-learn @ file:///home/conda/feedstock_root/build_artifacts/imbalanced-learn_1592145894352/work
+importlib-metadata @ file:///D:/bld/importlib-metadata_1593211580034/work
+isodate==0.6.0
+jmespath @ file:///home/conda/feedstock_root/build_artifacts/jmespath_1589369830981/work
+joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1589812474002/work
+jsonpickle==1.4.1
+jsonpointer==2.0
+jsonref==0.2
+jsonschema==3.2.0
+keepalive==0.5
+kiwisolver==1.2.0
+matplotlib==3.2.1
+monotonic==1.5
+msgpack==1.0.0
+msgpack-python==0.5.6
+neptune-client @ file:///home/conda/feedstock_root/build_artifacts/neptune-client_1593073186205/work
+neptune-contrib==0.22.0
+nltk==3.4.4
+numpy @ file:///D:/bld/numpy_1591485481352/work
+oauthlib==3.0.1
+olefile==0.46
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1589925210001/work
+pandas @ file:///D:/bld/pandas_1592422195497/work
+Pillow==7.1.2
+protobuf==3.12.3
+py3nvml==0.2.5
+pyaml==20.4.0
+pyasn1==0.4.8
+pyasn1-modules==0.2.7
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1593275161868/work
+PyJWT==1.7.1
+pyOpenSSL==19.1.0
+pyparsing==2.4.7
+pyrsistent==0.16.0
+PySocks==1.7.1
+pyspellchecker @ file:///home/conda/feedstock_root/build_artifacts/pyspellchecker_1590123117925/work
+python-dateutil==2.8.1
+python-dotenv==0.13.0
+pytz==2020.1
+PyYAML==5.3.1
+rdflib @ file:///D:/bld/rdflib_1588779991486/work
+regex @ file:///D:/bld/regex_1591646379267/work
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1592425495151/work
+requests-oauthlib==1.2.0
+rfc3987==1.3.8
+rsa @ file:///home/conda/feedstock_root/build_artifacts/rsa_1591996208734/work
+s3transfer==0.3.3
+scikit-learn @ file:///D:/bld/scikit-learn_1589921010829/work
+scikit-optimize==0.7.4
+scipy==1.3.2
+simplejson @ file:///D:/bld/simplejson_1588608634222/work
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1590081179328/work
+smart-open==2.0.0
+smmap @ file:///home/conda/feedstock_root/build_artifacts/smmap_1588651577140/work
+SPARQLWrapper @ file:///D:/bld/sparqlwrapper_1588888064884/work
+strict-rfc3339==0.7
+strsimpy==0.1.6
+swagger-spec-validator @ file:///home/conda/feedstock_root/build_artifacts/swagger-spec-validator_1593189905517/work
+threadpoolctl @ file:///tmp/tmp79xdzxkt/threadpoolctl-2.1.0-py3-none-any.whl
+tornado==6.0.4
+typing-extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1588470653596/work
+urllib3==1.25.9
+webcolors==1.11.1
+webencodings==0.5.1
+websocket-client==0.57.0
+win-inet-pton==1.1.0
+wincertstore==0.2
+xmltodict==0.12.0
+zipp==3.1.0
