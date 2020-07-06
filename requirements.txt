@@ -45,7 +45,7 @@ msgpack==1.0.0
 msgpack-python==0.5.6
 neptune-client @ file:///home/conda/feedstock_root/build_artifacts/neptune-client_1593073186205/work
 neptune-contrib==0.22.0
-nltk==3.4.4
+nltk==3.4.5
 numpy @ file:///D:/bld/numpy_1591485481352/work
 oauthlib==3.0.1
 olefile==0.46
