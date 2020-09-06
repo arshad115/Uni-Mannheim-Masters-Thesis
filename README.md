@@ -1,5 +1,5 @@
-# Uni Mannheim - Masters Thesis
-Public repo for my masters thesis:
+# Uni Mannheim - Business Informatics Masters Thesis - Arshad Mehmood
+Public repo for my masters thesis for the chair of Data and Web science:
 
 ### Identification of Polysemous Entities in a Large Scale Database (WebIsALOD)
 
