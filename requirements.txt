@@ -67,7 +67,7 @@ pyspellchecker @ file:///home/conda/feedstock_root/build_artifacts/pyspellchecke
 python-dateutil==2.8.1
 python-dotenv==0.13.0
 pytz==2020.1
-PyYAML==5.3.1
+PyYAML==5.4
 rdflib @ file:///D:/bld/rdflib_1588779991486/work
 regex @ file:///D:/bld/regex_1591646379267/work
 requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1592425495151/work
