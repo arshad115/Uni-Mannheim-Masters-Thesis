@@ -89,7 +89,7 @@ swagger-spec-validator @ file:///home/conda/feedstock_root/build_artifacts/swagg
 threadpoolctl @ file:///tmp/tmp79xdzxkt/threadpoolctl-2.1.0-py3-none-any.whl
 tornado==6.0.4
 typing-extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1588470653596/work
-urllib3==1.25.9
+urllib3==1.26.5
 webcolors==1.11.1
 webencodings==0.5.1
 websocket-client==0.57.0
