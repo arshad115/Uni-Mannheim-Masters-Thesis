@@ -52,7 +52,7 @@ olefile==0.46
 packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1589925210001/work
 pandas @ file:///D:/bld/pandas_1592422195497/work
 Pillow==8.2.0
-protobuf==3.12.3
+protobuf==3.18.3
 py3nvml==0.2.5
 pyaml==20.4.0
 pyasn1==0.4.8
